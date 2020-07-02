@@ -41,6 +41,12 @@ For example:
 
 We agreed that the hypothesis-testing route was the best way to go; although I at least would still like to run some of the tests of the kind Fredrik suggested, inspired by "Bankspeak".
 
-Next step is to identify our hypotheses, framed (ideally) against some statements by other scholars. On that basis, identify several text-analytical methods we want to use to test these. Prepare a list of these methods (with reference to tools created for earlier projects) to present to Roger and Andreas by end of August 2020.
+Next step is to identify our hypotheses, framed (ideally) against some statements by other scholars. Start with:
+
+* Scovazzi, "Culture", in _The Oxford Handbook of United Nations Treaties_ (2019)
+* Wouters and Vidal, "UNESCO and the Promotion of Cultural Exchange and Cultural Diversity", in Yusuf, ed., _Standard-setting in UNESCO._ Vol. I (2007)
+* Francioni, "A Dynamic Evolution of Concept and Scope: From Cultural Property to Cultural Heritage", in Yusuf, ed., _Standard-setting in UNESCO._ Vol. I (2007) 
+
+On that basis, identify several text-analytical methods we want to use to test these. Prepare a list of these methods (with reference to tools created for earlier projects) to present to Roger and Andreas by end of August 2020.
 
 
