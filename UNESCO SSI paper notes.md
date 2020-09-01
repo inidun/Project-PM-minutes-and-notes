@@ -49,4 +49,13 @@ Next step is to identify our hypotheses, framed (ideally) against some statement
 
 On that basis, identify several text-analytical methods we want to use to test these. Prepare a list of these methods (with reference to tools created for earlier projects) to present to Roger and Andreas by end of August 2020.
 
+**_Identifying text-analytical methods to use on UNESCO's SSIs_**
+
+I have started a file (in my own notes) called "Claims to Test". There I list claims historians have made that seem to be suitable for testing with digital methods. I divide these claims up by the corpus in which they would make sense to test, although of course some of these could be tested in all three.
+
+The point _here_ is to make the link from (1) the claim, to (2) how (through which methods) we could test/explore it, to (3) which text-analytical tools would be most appropriate for these tasks?
+
+...
+
+
 
