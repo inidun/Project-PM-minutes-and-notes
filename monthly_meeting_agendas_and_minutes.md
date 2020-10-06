@@ -24,7 +24,23 @@ _Agenda_
 _Notes_
 
 - The new text analysis tools should be opened and used in jupyter at inidun.humlab.umu.se. The code is stored in GitHub.
-- 
+- We added several issues regarding new features to add to new Word trends tool (word_trends.ipynb at inidun.humlab.umu.se), in part inspired by Moretti and Pestre, "Bankspeak."
+- Decision: we will focus, for the SSIs, on a small group of tools: 
+  - word trends
+  - most discriminating words
+  - collocation
+Roger will try to re-use tools from CultIntSoc and Westac. He will let us know when the new versions (in jupyter) are ready to use. 
+In the meantime, B and F will focus on: ...
+   
+
+
+- Re: curating UNESCO _Proceedings_
+B will continue discussing w UNESCO how to get whole downloads of text files.
+Then, B will work on tagging/marking up these texts with # markers, designed to facilitate cutting up the text into usable pieces and creating metadata. These can be inserted into the text file before the text in question, to mark:
+1. when a particular session of the General Conference begins: #SESSION_START
+1. when a new speaker begins speaking, including UNESCO title (where relevant), country, and language (only EN or FR): #SPEECH_INDIA_EN
+
+B will start this with one or two years of Proceedings; eventually we might get help from a paid student or other support. 
 
 
 ###  Meeting, 1 September 2020 (via zoom)
