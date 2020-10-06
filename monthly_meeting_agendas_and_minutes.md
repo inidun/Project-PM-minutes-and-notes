@@ -21,6 +21,12 @@ _Agenda_
    1. Reading group re: relevant DH methods (incl re: digital conceptual history)?
 
 
+_Notes_
+
+- The new text analysis tools should be opened and used in jupyter at inidun.humlab.umu.se. The code is stored in GitHub.
+- 
+
+
 ###  Meeting, 1 September 2020 (via zoom)
 
 _Agenda_ 
