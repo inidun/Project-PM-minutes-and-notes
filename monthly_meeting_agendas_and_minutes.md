@@ -1,5 +1,25 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 6 October 2020 (in Umeå)
+
+_Agenda_
+
+1. Updates, status
+1. Work with UNESCO SSIs
+   1. Look together at current set of text analysis tools.
+   1. Compare to work B and F did with SSIs for Lund talk (in Voyant)
+   1. Discussion of _meaning_ of co-occurrences plotted as graph...!
+   1. Tools for Moretti-style analysis of SSIs?
+   1. Discuss an article using (only) this corpus; order of work, division of labor?
+   1. Set time-frame for work on such an article
+1. _Courier_: 
+   1. Status (F and B report) 
+   1. Next steps?
+1. Proceedings
+1. Other matters
+   1. Reading group re: relevant DH methods (incl re: digital conceptual history)?
+
+
 ###  Meeting, 1 September 2020 (via zoom)
 
 _Agenda_ 
