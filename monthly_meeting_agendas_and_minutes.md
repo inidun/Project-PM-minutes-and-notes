@@ -7,6 +7,7 @@ _Agenda_
 1. Updates, status
 1. Work with UNESCO SSIs
    1. Look together at current set of text analysis tools.
+   1. Using index (for example: ways to measure how many countries, absolute number and % of total number of member states, signed/adopted which of the resolutions and declarations?) 
    1. Compare to work B and F did with SSIs for Lund talk (in Voyant)
    1. Discussion of _meaning_ of co-occurrences plotted as graph...!
    1. Tools for Moretti-style analysis of SSIs?
