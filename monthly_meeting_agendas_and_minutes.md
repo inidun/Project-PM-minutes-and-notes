@@ -28,10 +28,16 @@ _Notes_
 - Decision: we will focus, for the SSIs, on a small group of tools: 
   - word trends
   - most discriminating words
-  - collocation
-Roger will try to re-use tools from CultIntSoc and Westac. He will let us know when the new versions (in jupyter) are ready to use. 
-In the meantime, B and F will focus on: ...
-   
+  - collocates
+  
+Roger will try to re-use tools from CultIntSoc and Westac (common things are kept in area called penelope). Timeline? 
+He will let us know when the new versions (in jupyter) are ready to use. 
+
+In the meantime, B and F will focus on: 
+- identifying arguments (in the scholarly literature) to test in the corpus
+- developing argument about what exactly the SSI corpus is and can show. What is its value as an object of study?
+- developing argument about value of digital approaches at all, given small size of corpus
+- Timeframe: try to complete and submit an artile on SSIs early in 2021.   
 
 
 - Re: curating UNESCO _Proceedings_
@@ -40,7 +46,8 @@ Then, B will work on tagging/marking up these texts with # markers, designed to 
 1. when a particular session of the General Conference begins: #SESSION_START
 1. when a new speaker begins speaking, including UNESCO title (where relevant), country, and language (only EN or FR): #SPEECH_INDIA_EN
 
-B will start this with one or two years of Proceedings; eventually we might get help from a paid student or other support. 
+B can start doing this with one or two years of _Proceedings_; eventually we might get help from a paid student or other support.
+
 
 
 ###  Meeting, 1 September 2020 (via zoom)
