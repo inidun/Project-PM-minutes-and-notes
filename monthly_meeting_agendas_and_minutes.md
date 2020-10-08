@@ -40,13 +40,17 @@ In the meantime, B and F will focus on:
 - Timeframe: try to complete and submit an artile on SSIs early in 2021.   
 
 
-- Re: curating UNESCO _Proceedings_
+Re: curating UNESCO _Proceedings_
+
 B will continue discussing w UNESCO how to get whole downloads of text files.
 Then, B will work on tagging/marking up these texts with # markers, designed to facilitate cutting up the text into usable pieces and creating metadata. These can be inserted into the text file before the text in question, to mark:
 1. when a particular session of the General Conference begins: #SESSION_START
 1. when a new speaker begins speaking, including UNESCO title (where relevant), country, and language (only EN or FR): #SPEECH_INDIA_EN
 
-B can start doing this with one or two years of _Proceedings_; eventually we might get help from a paid student or other support.
+B can start doing this with one or two years of _Proceedings_; eventually we might get help from a paid student or other support. 
+
+In the meantime:
+- B and F can read up on UNESCO (especially, for F, _Courier_). In each case, they will think about what the corpus _is_, and what sorts of things it can allow us to say. That is, once we are able to do text-analytical work with these corpora, we want to be ready to make an argument about what claims about these corpora show about history and the world (!).   
 
 
 
