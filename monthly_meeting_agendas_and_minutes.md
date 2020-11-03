@@ -22,8 +22,15 @@ _Agenda_
    1. Scraping _Courier_: possible? Already done? Problems?
 
 1. Proceedings:
-   1. Discuss a Plan B (if UNESCO cannot arrange batch download)
-   1. Scraping Proceedings: How much was already done? OCR/text quality? Can this be done again with better quality?
+   1. Discuss Eng's offer to get us the Proceedings texts from [UNESCO digital archive](https://digital.archives.unesco.org/en/):
+      - "They were digitized as one file per page, so all the files belonging to a single document need to be integrated. Would your team be able to find a way to do this? (all the files belonging to the same document share the same file name, with then a sequential number appended – e.g. 223336_ENG_0001, 223336_ENG_0002 etc). Our developer has been working on a script to automatically integrate all pages into single documents, but has not had time to implement this yet."
+      - Can we manage this problem?
+      - Review how much of the total this includes.
+      - B. could identify specific page numbers and get those to Eng.
+
+   1. Re: Proceedings texts on UNESDOC: 
+      - Discuss a Plan B (if UNESCO cannot arrange batch download)
+      - Scraping Proceedings: How much was already done? OCR/text quality? Can this be done again with better quality?
    
 1. Review our mode of working
    1. Using the kanban. Useful? How to make more dynamic?
