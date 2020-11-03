@@ -22,6 +22,7 @@ _Agenda_
    1. Scraping _Courier_: possible? Already done? Problems?
 
 1. Proceedings:
+   1. Note: General Conference sessions 1-7 (1946-1952) are in UNESCO digital archive. The rest (1953-2015) are in UNESDOC.
    1. Discuss Eng's offer to get us the Proceedings texts from [UNESCO digital archive](https://digital.archives.unesco.org/en/):
       - "They were digitized as one file per page, so all the files belonging to a single document need to be integrated. Would your team be able to find a way to do this? (all the files belonging to the same document share the same file name, with then a sequential number appended – e.g. 223336_ENG_0001, 223336_ENG_0002 etc). Our developer has been working on a script to automatically integrate all pages into single documents, but has not had time to implement this yet."
       - Can we manage this problem?
@@ -34,6 +35,7 @@ _Agenda_
    
 1. Review our mode of working
    1. Using the kanban. Useful? How to make more dynamic?
+   1. Consolidate all project-related data in GitHub. (How?)
    1. Other changes needed? Should we meet more often (next year), or in a different way? 
    
 
