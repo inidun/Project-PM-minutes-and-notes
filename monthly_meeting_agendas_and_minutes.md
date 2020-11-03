@@ -1,5 +1,35 @@
 ## Minutes from INIDUN monthly meetings
 
+
+### Meeting, 3 November 2020 (via zoom) 
+
+_Agenda_
+
+1. Updates: 
+   1. Partnership agreement (almost) done
+   
+1. Working with UNESCO SSIs:
+   1. Status of jupyter page(s) for working with this corpus?
+   1. Discuss process for working on an article using (only) this corpus:
+      - order of work
+      - division of labor
+      - time-frame
+
+1. _Courier_:
+   1. _Courier_ metadata excel file: all ok? 
+      - Plan for storing, updating, versioning
+   1. Downloading _Courier_ texts. Eng (at UNESCO) says a batch download "might take a while" and encourages us to think of a plan B. What could that be?
+   1. Scraping _Courier_: possible? Already done? Problems?
+
+1. Proceedings:
+   1. Discuss a Plan B (if UNESCO cannot arrange batch download)
+   1. Scraping Proceedings: How much was already done? OCR/text quality? Can this be done again with better quality?
+   
+1. Review our mode of working
+   1. Using the kanban. Useful? How to make more dynamic?
+   1. Other changes needed? Should we meet more often (next year), or in a different way? 
+   
+
 ### Meeting, 6 October 2020 (in Umeå)
 
 _Agenda_
