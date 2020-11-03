@@ -38,6 +38,23 @@ _Agenda_
    1. Consolidate all project-related data in GitHub. (How?)
    1. Other changes needed? Should we meet more often (next year), or in a different way? 
    
+_Notes_
+
+1. Roger and Andreas will let us know when jupyter page for SSIs is up.
+1. Andreas created a new repository in GitHub for actual data from corpora, including the new Courier metadata file.
+   - Ben downloaded a copy of this folder (in the INDUN folder) from GitHub to hard drive. Can look at this with a “edit csv” plug-in (from VSC marketplace).
+   - We should gradually move data that’s now elsewhere in GitHub, Google drive, or on Open Science to this repository. (Right?) 
+
+1. Courier: 
+   - Fredrik will quality control the _Courier_ metadata file by checking (in particular) if the article titles and page numbers are correct on a random sample of issues. 
+   - We will need to extract the _Courier_ text (into simple text, from the PDFs) again, article by article.
+   - Ben should ask Eng if UNESCO has txt files of the Courier PDFs (or another format?). What we want is the text in textual/reading order (not as it appears on the page). 
+   
+1. Other issues: 
+   - Ben will discuss Eng's technical questions (re: Proceedings) with R and A via email. 
+   - We did not get to other points re: Proceedings, nor to the issue of reviewing our work methods. To return to in December, or at a mellan-möte (Tuesday, Nov 17?).
+
+
 
 ### Meeting, 6 October 2020 (in Umeå)
 
