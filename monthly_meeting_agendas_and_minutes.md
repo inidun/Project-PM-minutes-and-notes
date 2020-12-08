@@ -1,5 +1,52 @@
 ## Minutes from INIDUN monthly meetings
 
+
+### Notes on meeting, 8 December 2020
+
+1. Roger gave us a tour of pNLoP ("Penelope"). Important to note that this represents an artefact and achievement of the project; to be mentioned when reporting back to funding agencies!
+
+1. We looked at one example of a text-analytical document prepared through Penelope: co-occurrence data (in Excel) for nouns, verbs, and adjectives in the UNESCO SSI text corpus. Roger will make this document available on google drive (see below)
+
+1. R suggests that, although getting bespoke tools up on project-specific jupyter pages is the goal, Fredrik and Ben can and should ask for data outputs in the meantime. We can work with these ourselves (through Excel) and in that way determine what sort of text curating we want, and what sort of text analytical tools we want.    
+
+1. Re: data storage and sharing: 
+   Ben suggests the following:
+   - GitHub: Small data files can continue to be kept in GitHub (in the folder called INIDUN_data)
+   - Google Drive: The following kinds of data will be kept in folder called [INIDUN (drive)](https://drive.google.com/drive/folders/15bjGlGLLWcyxoZbcUSBu2FkNtI-8kRXH):
+     - Larger data files (for example, text files that we scrape or receive from UNESCO)
+     - Metadata files (for example, indexes that we receive from UNESCO or create ourselves)
+     - Outputs (for example, data outputs like the SSI co-occurrence data file mentioned above, or ones that B or F create themselves)
+     - Drafts of texts we write for publication
+   - Comments on this plan are welcome!
+
+1. B will ask Ulf S. if B can have an UmU email address, which might facilitate other forms of data-sharing and communication.
+
+1. Meeting schedule for VT21: 
+   - B suggested a schedule with meetings every 2 weeks. On consideration, a new suggestion: that B and F meet every two weeks, and all four meet once a month (Tuesdays at 13:15), as follows. (This includes two short meetings with all of us, to get the year started.)
+      - 19/1 
+      - 2/2 
+      - 16/2 (just B and F) 
+      - 9/3 
+      - 23/3 (just B and F)
+      - 30/3 
+      - 13/4 (just B and F)
+      - 4/5
+      - 18/5 (just B and F)
+      - 1/6
+      - 15/6 (just B and F)
+
+1. _Before_ our January 19 meeting:
+   - Ben will circulate a document including:
+     - Suggested goals for VT21
+     - Suggested (specific, delimited) tasks
+     - An outline of a work flow, specifically related to the tasks in question.
+
+1. Do to _at_ January 19 meeting (a partial list):
+   - Discuss work planning document 
+   - Take decisions re: VT21 goals and working methods
+   - Revisit issue of where to store data; take (final) decision on this.
+
+
 ### Meeting, 8 December 2020 (via zoom) 
 
 _Agenda_
@@ -61,9 +108,10 @@ _Agenda_
       - 11/5
       - 25/5
       - 8/6
-      - 22/6
+      - 22/6 
 
 1. Close meeting
+
 
 
 ### Meeting, 3 November 2020 (via zoom) 
