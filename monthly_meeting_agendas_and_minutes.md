@@ -6,6 +6,8 @@ _Agenda_
 
 1. Updates 
    1. Uppdateringsrunda
+      - B. question re: GitHub security warning
+      - B. quick update re: CultIntSoc status
    1. Approve meeting agenda
 
 1. Penelope: 
