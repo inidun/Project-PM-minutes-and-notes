@@ -1,5 +1,67 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 8 December 2020 (via zoom) 
+
+_Agenda_
+
+1. Updates 
+   1. Uppdateringsrunda
+   1. Approve meeting agenda
+
+1. Penelope: 
+   1. Roger shows us the new system
+
+1. inidun.humlab.umu.se: 
+   1. Quick presentation
+   1. Plans for how to use this
+
+1. Reviewing our work methods: 
+   1. Roger's suggestions
+   1. Decide on concrete changes
+   1. Prepare a work-flow document (as guideline for 2021)?
+
+1. New work methods in practice: UNESCO's SSIs
+   1. Outline next steps for this sub-project
+   
+1. Data management (reviewing where we keep what):
+      - What goes on GitHub?
+      - What goes on inidun.humlab.umu.se?
+      - Where to store Ben or Fredrik's provisional text analysis outputs? 
+      - Google docs (or other shared writing platform)?
+
+1. Source material questions
+
+   1. re: _Courier_: Where things stand (Fredrik)
+
+   1. re: _Proceedings_ on UNESCO dig archive: 
+      - Status: B. will go through this, determine which pages we want, etc. 
+      - Eng's technical question: "They were digitized as one file per page, so all the files belonging to a single document need to be integrated. Would your team be able to find a way to do this? (all the files belonging to the same document share the same file name, with then a sequential number appended – e.g. 223336_ENG_0001, 223336_ENG_0002 etc)." Can we manage this problem?
+      
+   1. re: Proceedings texts on UNESDOC: 
+      - Discuss a Plan B (if UNESCO cannot arrange batch download)
+      - Scraping Proceedings: How much was already done? OCR/text quality? Can this be done again with better quality?
+      - Schedule this as task for (relatively) early in 2021. 
+
+1. Setting (revised) goals for 2021
+   - How to do this? 
+   - Suggestion: B. prepares and circulates draft; we decide on it at first 2021 meeting. OK?
+
+1. Meeting schedule for VT21:
+   1. B suggests: 
+      - 19/1
+      - 2/2
+      - 16/2
+      - 9/3
+      - 23/3
+      - 13/4
+      - 27/4
+      - 11/5
+      - 25/5
+      - 8/6
+      - 22/6
+
+1. Close meeting
+
 
 ### Meeting, 3 November 2020 (via zoom) 
 
@@ -43,7 +105,8 @@ _Notes_
 1. Roger and Andreas will let us know when jupyter page for SSIs is up.
 1. Andreas created a new repository in GitHub for actual data from corpora, including the new Courier metadata file.
    - Ben downloaded a copy of this folder (in the INDUN folder) from GitHub to hard drive. Can look at this with a “edit csv” plug-in (from VSC marketplace).
-   - We should gradually move data that’s now elsewhere in GitHub, Google drive, or on Open Science to this repository. (Right?) 
+   - We should gradually move data that’s now elsewhere in GitHub, Google drive, or on Open Science to this repository. Right? 
+      Answer: Not necessarily. GitHub is for code; data (and outputs, etc) should be stored elsewhere. 
 
 1. Courier: 
    - Fredrik will quality control the _Courier_ metadata file by checking (in particular) if the article titles and page numbers are correct on a random sample of issues. 
