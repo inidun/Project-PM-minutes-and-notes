@@ -30,6 +30,7 @@ _Agenda_
       - What goes on inidun.humlab.umu.se?
       - Where to store Ben or Fredrik's provisional text analysis outputs? 
       - Google docs (or other shared writing platform)?
+      - See (and edit?) task in main project kanban re: "Move all relevant data...". 
 
 1. Source material questions
 
