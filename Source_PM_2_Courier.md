@@ -27,8 +27,8 @@ Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för 
 *	I vissa enstaka fall kommer den engelska titeln före i ordningen, t ex i följande fall ”fre|spa rus ara eng chi epo” gavs först en spansk titel följt av en engelsk titel (och hoppade således över ryska och arabiska, som för övrigt inte fanns med bland titlarna i andra språk).  
 
 **E-kolumnen: ”Languages”.** Ange vilka språk som artiklarna gavs ut på. Huvudspråket anges först och om det finns översatt anges det efter ett ”|”, t ex ”eng|ara chi fre por rus spa epo srd”. 
-*	Item 1 Nästan alla finns i en engelsk version, men några enstaka gavs också ut bara på andra språk:
-  *	item 1a T ex det enda numret 2012, och aprilnumret 2007. 
+*	Item 1 Nästan alla finns i en engelsk version, men några enstaka gavs också ut bara på andra språk: 
+  * Tex det enda numret 2012, och aprilnumret 2007. 
   *	item 1b 2007:3 (ett nummer om museum) som bara finns på franska, spanska och ryska. 
   *	item 1c En artikel i numret 1956:5 (Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde IX, 5 p. 29 78152 fre) som handlar om skilda saker i den engelska versionen (om London och dialekter) och i den franska (om en skola och dess elever (?)). 
   *	item 1d Ett sista (?) exempel är från 1956:5 på sida 10 där det finns en liten del av artikeln (en slags faktaruta) som bara finns på franska (möjligen för att det fanns utrymme att fylla ut sidan efter översättningen). 
