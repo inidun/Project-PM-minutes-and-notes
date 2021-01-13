@@ -43,12 +43,14 @@ o	Följande poster har felaktigt angivet att artiklarna bara finns på andra spr
 •	F-kolumnen: ”Series”. Anger de olika Courier-numren (volym och nummer), alltså inte enskilda artiklar, angivet i olika språk avgränsade med ”|”, t ex: 
 o	”The UNESCO Courier: a window open on the world VIII, 10|Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde VIII, 10|El Correo de la UNESCO: una ventana abierta sobre el mundo VIII, 10)”. Dock anges detta på lite olika sätt, för mer info se I-Kolumnen. 
 o	Här anges inte id-numret för publikationen, vilket det dock gör i I-kolumnen. 
-•	G-kolumnen: ”Catalogue – Subjects”. Unesco:s/Couriers keywords för vad varje artikel och nummer handlar om, enligt följande system: 
-o	”Transport engineering|Railway transport|International trade|Mexico|Development projects|Financial aid|World Bank”
-•	H-kolumnen: ”Document type”. Anger om det är en 1) enskild artikel (article) eller 2) ett tidskriftsnummer (periodical issue) – vi kan därför ignorera alla ”periodical issue”
-•	I-kolumnen: ”Host item”. Anger bl a information om varje artikels volym, tidskriftsnummer, sidnummer och id-numret för respektive tidskriftsnummer. Detta görs upprepande för respektive språk som artikeln är översatt till (separerat med ”|”). Nedan är ett exempel från Courier 1983 no 3: 
-o	”The UNESCO Courier: a window open on the world XXXVI, 3 p. 4-7, illus. 74689 eng|(UNESCO courier (Arabic)) XXXVI, 3 p. 4-7, illus. 74689 ara|(The UNESCO Courier (Chinese)) XXXVI, 3 p. 4-7, illus. 74689 chi|Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde XXXVI, 3 p. 4-7, illus. 74689 fre|Kur'er Yunesko XXXVI, 3 p. 4-7, illus. 74689 rus|El Correo de la UNESCO: una ventana abierta sobre el mundo XXXVI, 3 p. 4-7, illus. 74689 spa”. Här utgör XXXVI = volymnummer. 3 = tidskriftsnummer. p. 4-7 = sidnummer. 74689 = id-numret för tidskriftsnumret.
-o	Angående volym- och tidskriftsnummer (liksom namnet på tidskriften) finns det finns variation för hur detta skrivs ut:
+
+**G-kolumnen: ”Catalogue – Subjects”.** Unesco:s/Couriers keywords för vad varje artikel och nummer handlar om, enligt följande system: 
+* Item 1	”Transport engineering|Railway transport|International trade|Mexico|Development projects|Financial aid|World Bank”
+  * Item 1a H-kolumnen: ”Document type”. Anger om det är en 1) enskild artikel (article) eller 2) ett tidskriftsnummer (periodical issue) – vi kan därför ignorera alla ”periodical issue”
+
+**I-kolumnen: ”Host item”.** Anger bl a information om varje artikels volym, tidskriftsnummer, sidnummer och id-numret för respektive tidskriftsnummer. Detta görs upprepande för respektive språk som artikeln är översatt till (separerat med ”|”). Nedan är ett exempel från Courier 1983 no 3: 
+*	”The UNESCO Courier: a window open on the world XXXVI, 3 p. 4-7, illus. 74689 eng|(UNESCO courier (Arabic)) XXXVI, 3 p. 4-7, illus. 74689 ara|(The UNESCO Courier (Chinese)) XXXVI, 3 p. 4-7, illus. 74689 chi|Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde XXXVI, 3 p. 4-7, illus. 74689 fre|Kur'er Yunesko XXXVI, 3 p. 4-7, illus. 74689 rus|El Correo de la UNESCO: una ventana abierta sobre el mundo XXXVI, 3 p. 4-7, illus. 74689 spa”. Här utgör XXXVI = volymnummer. 3 = tidskriftsnummer. p. 4-7 = sidnummer. 74689 = id-numret för tidskriftsnumret.
+*	Angående volym- och tidskriftsnummer (liksom namnet på tidskriften) finns det finns variation för hur detta skrivs ut:
 	The UNESCO Courier 1948–1954 enligt principen: “The UNESCO courier VII, 3 p. 14-15, illus. 69904 eng”. Här anges volymnumret med romerska siffror och tidskriftsnumret med vanliga siffror.
 	The UNESCO Courier: a window open on the world 1955¬–1995 anges enligt principen: “The UNESCO Courier: a window open on the world VIII, 1 p. 5-7, illus. 68948 eng”. Här anges volymnumret med romerska siffror och tidskriftsnumret med vanliga siffror. 
 	The UNESCO courier: a window open on the world 1996–1998 (fram till 1998:9) enligt principen: “The UNESCO courier: a window open on the world 49, 10 p. 50 104412 eng”. Här anges både volym- och tidskriftsnumret med vanliga siffror.
