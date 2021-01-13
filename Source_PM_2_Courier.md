@@ -91,7 +91,7 @@ Förslag på process för att extrahera enskilda artiklar med metadata
 2.	Stycka upp varje nummer av Courier efter artiklar baserat på sidhänvisning (se Kolumn-I). Detta kommer kräva en hel del manuell påläggning för att kontrollera att rätt text hör till rätt artikel. Detta arbete bör därför göras stegvis (kanske för varje femårsperiod) för att lära sig av misstag och förbättra processen.
 3.	Förse varje artikel/textfil med ytterligare metadata för artikeltitel (Kolumn-B alt. Kolumn-D), författare (Kolumn-C) och möjligen även keywords (Kolumn-G). När väl steg 2 är utfört är bör det vara relativt enkelt att förse varje enskild artikel med metadata från respektive kolumn.
 
-
+ 
 
 
 
