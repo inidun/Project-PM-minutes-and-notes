@@ -32,14 +32,14 @@ Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för 
   * Item 1b 2007:3 (ett nummer om museum) som bara finns på franska, spanska och ryska. 
   * Item 1c En artikel i numret 1956:5 (Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde IX, 5 p. 29 78152 fre) som handlar om skilda saker i den engelska versionen (om London och dialekter) och i den franska (om en skola och dess elever (?)). 
   * Item 1d Ett sista (?) exempel är från 1956:5 på sida 10 där det finns en liten del av artikeln (en slags faktaruta) som bara finns på franska (möjligen för att det fanns utrymme att fylla ut sidan efter översättningen). 
-o	Följande poster har felaktigt angivet att artiklarna bara finns på andra språk än engelska:
-	El Correo de la UNESCO I, 7 p. 3 73809 spa
-	El Correo de la UNESCO I, 8 p. 8 73829 spa
-	El Correo de la UNESCO II, 7 p. 9 74029 spa
-	El Correo de la UNESCO III, 4 p. 11, illus. 81370 spa
-	El Correo de la UNESCO III, 6/7 p. 13, illus., port. 81475 spa
-	El Correo de la UNESCO III, 9 p. 2, illus. 81564 spa
-	El Correo de la UNESCO: una ventana abierta sobre el mundo IX, 5 p. 29 78152 spa <br /><br />
+* Item 2 Följande poster har felaktigt angivet att artiklarna bara finns på andra språk än engelska:
+  * Item 2a El Correo de la UNESCO I, 7 p. 3 73809 spa
+  * Item 2b El Correo de la UNESCO I, 8 p. 8 73829 spa
+  * Item 2c El Correo de la UNESCO II, 7 p. 9 74029 spa
+  * Item 2d El Correo de la UNESCO III, 4 p. 11, illus. 81370 spa
+  * Item 2e El Correo de la UNESCO III, 6/7 p. 13, illus., port. 81475 spa
+  * Item 2f El Correo de la UNESCO III, 9 p. 2, illus. 81564 spa
+  * Item 2g El Correo de la UNESCO: una ventana abierta sobre el mundo IX, 5 p. 29 78152 spa <br /><br />
 
 **F-kolumnen: ”Series”.** Anger de olika Courier-numren (volym och nummer), alltså inte enskilda artiklar, angivet i olika språk avgränsade med ”|”, t ex: 
 o	”The UNESCO Courier: a window open on the world VIII, 10|Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde VIII, 10|El Correo de la UNESCO: una ventana abierta sobre el mundo VIII, 10)”. Dock anges detta på lite olika sätt, för mer info se I-Kolumnen. 
