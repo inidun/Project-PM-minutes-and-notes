@@ -40,13 +40,15 @@ o	Följande poster har felaktigt angivet att artiklarna bara finns på andra spr
 	El Correo de la UNESCO III, 6/7 p. 13, illus., port. 81475 spa
 	El Correo de la UNESCO III, 9 p. 2, illus. 81564 spa
 	El Correo de la UNESCO: una ventana abierta sobre el mundo IX, 5 p. 29 78152 spa
-•	F-kolumnen: ”Series”. Anger de olika Courier-numren (volym och nummer), alltså inte enskilda artiklar, angivet i olika språk avgränsade med ”|”, t ex: 
+
+**F-kolumnen: ”Series”.** Anger de olika Courier-numren (volym och nummer), alltså inte enskilda artiklar, angivet i olika språk avgränsade med ”|”, t ex: 
 o	”The UNESCO Courier: a window open on the world VIII, 10|Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde VIII, 10|El Correo de la UNESCO: una ventana abierta sobre el mundo VIII, 10)”. Dock anges detta på lite olika sätt, för mer info se I-Kolumnen. 
 o	Här anges inte id-numret för publikationen, vilket det dock gör i I-kolumnen. 
 
 **G-kolumnen: ”Catalogue – Subjects”.** Unesco:s/Couriers keywords för vad varje artikel och nummer handlar om, enligt följande system: 
 * Item 1	”Transport engineering|Railway transport|International trade|Mexico|Development projects|Financial aid|World Bank”
-  * Item 1a H-kolumnen: ”Document type”. Anger om det är en 1) enskild artikel (article) eller 2) ett tidskriftsnummer (periodical issue) – vi kan därför ignorera alla ”periodical issue”
+ 
+ **H-kolumnen: ”Document type”.** Anger om det är en 1) enskild artikel (article) eller 2) ett tidskriftsnummer (periodical issue) – vi kan därför ignorera alla ”periodical issue”
 
 **I-kolumnen: ”Host item”.** Anger bl a information om varje artikels volym, tidskriftsnummer, sidnummer och id-numret för respektive tidskriftsnummer. Detta görs upprepande för respektive språk som artikeln är översatt till (separerat med ”|”). Nedan är ett exempel från Courier 1983 no 3: 
 *	”The UNESCO Courier: a window open on the world XXXVI, 3 p. 4-7, illus. 74689 eng|(UNESCO courier (Arabic)) XXXVI, 3 p. 4-7, illus. 74689 ara|(The UNESCO Courier (Chinese)) XXXVI, 3 p. 4-7, illus. 74689 chi|Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde XXXVI, 3 p. 4-7, illus. 74689 fre|Kur'er Yunesko XXXVI, 3 p. 4-7, illus. 74689 rus|El Correo de la UNESCO: una ventana abierta sobre el mundo XXXVI, 3 p. 4-7, illus. 74689 spa”. Här utgör XXXVI = volymnummer. 3 = tidskriftsnummer. p. 4-7 = sidnummer. 74689 = id-numret för tidskriftsnumret.
@@ -68,8 +70,10 @@ The UNESCO courier 2010 har 1 nummer som anges så här: “The UNESCO courier S
 o	Angående sidnummer står det oftast ”p.”, men ibland också ”pages”, ”page”. Ibland är det ”,” efter angivet sidnummer, om det är en artikel på olika spridda sidor kan det stå ”p. 16, p. 17” eller ”p. 7, 8”, om det finns med en illustration kan det stå ”p. 8, illus.”, vid någon enstaka gång kan det se ut så här: ”p.23-24, 33, maps” (alltså inget mellanslag mellan p. och sidnumret). 
 o	Angående id-numret för tidskriftsnumret anges detta alltid efter sidnumret. Id-numret är alltså samma för varje artikel som ingår i respektive tidskriftsnummer. Id-numret är viktigt då det är det numret som varje nummer av Courier döps till vid nerladdning!
 o	OBS! UNESCO Monitor gavs ut i 3 nummer under 1947 innan Courier lanseras och tar över. I Kolumn-I finns bara en artikel registrerad för Monitor. De tre tidskriftsnumren finns istället registrerade i Kolumn-B som ”UNESCO monitor, vol. 1, no. 1”, ”UNESCO monitor, vol. 1, no. 2” och ”UNESCO monitor, vol. 1, no. 3”. Antingen exkluderas dessa två nummer från analysen eller så kurerar vi dem själva för hand (de saknar nämligen metadata för artikeltitlar, sidnummer, författare etc).
-•	J-kolumnen: ”Catalogue - Publication date” (dvs år). År finns för alla angivna artiklar. Hur detta skrivs skiftar lite, men det börjar alltid med året med fyra siffertecken (t ex 1965). Olika exempel: ”1983|May 1983”, ” 2018|Jan. - Mar. 2018”, ”1950”. Det är med andra ord lätt att extrahera ut årtalet för respektive artikel och kan användas istället för volymnummer!
-•	K-kolumnen: ”Notes”. Diverse anteckningar till artiklar och tidskriftsnummer. Omkring 2200 poster är försedda med anteckningar.
+
+**J-kolumnen: ”Catalogue - Publication date”.** År finns för alla angivna artiklar. Hur detta skrivs skiftar lite, men det börjar alltid med året med fyra siffertecken (t ex 1965). Olika exempel: ”1983|May 1983”, ” 2018|Jan. - Mar. 2018”, ”1950”. Det är med andra ord lätt att extrahera ut årtalet för respektive artikel och kan användas istället för volymnummer!
+
+**K-kolumnen: ”Notes”.** Diverse anteckningar till artiklar och tidskriftsnummer. Omkring 2200 poster är försedda med anteckningar.
 
 
 Förslag på process för att extrahera enskilda artiklar med metadata
