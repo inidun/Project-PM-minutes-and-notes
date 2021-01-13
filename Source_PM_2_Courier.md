@@ -2,10 +2,8 @@
 
 Jag har gjort en ganska noga genomgång av ”metadata-file” för Courier. Metadatan är överlag koherent och korrekt. Den anomalier som finns går säkerligen att rätta till manuellt. Jag har gjort detaljerade anteckningar som vi kan ha nytta av när vi ska arbeta med att få stycka upp Courier i enskilda artiklar och försedda med relevant metadata.
 
-Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för att kurera Courier. 
+Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för att kurera Courier.<br /><br /><br />
 
-
-*Anteckningar om ”metadata-file” för Courier*
 
 **A-kolumnen: ”Record number”-** Anger ett unikt serienummer för respektive text (artikel eller tidskriftsnummer).<br /><br />
 
