@@ -7,22 +7,22 @@ Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för 
 
 ## Anteckningar om ”metadata-file” för Courier
 
->A-kolumnen: ”Record number”.< Anger ett unikt serienummer för respektive text (artikel eller tidskriftsnummer).
+**A-kolumnen: ”Record number”-** Anger ett unikt serienummer för respektive text (artikel eller tidskriftsnummer).
 
-
-B-kolumnen: ”Catalogue – Title”. Anger titeln för respektive artikel/tidskriftsnummer. 
+**B-kolumnen: ”Catalogue – Title”.** Anger titeln för respektive artikel/tidskriftsnummer. 
 * Det språk som anges är det som anges först i E-kolumnen (”Languages”). Om det istället står t ex ”fre|eng spa rus ara por chi cat kor” i E-kolumnen anges franska som titel i B-kolumnen (”Catalogue – Title”). I D-kolumnen (”Titles in other languages”) anges sedan titeln på de översatta språken (i den ordning som anges i E-kolumnen med ”|” som avskiljare), t ex: ”Powerful women|El poder de las mujeres|Mulheres poderosas|Dones poderoses”. I nästan alla artiklar som inte har engelska som huvudspråk anges det alltid som andraspråk (50 artiklar undantagna). Vi kan med andra ord skapa en regel som säger att när eng inte är huvudspråk ska skriptet ta den första textsträngen som slutar med ”|”
 * Det finns ett 30-tal artiklar som är editorials, vilket nästan aldrig annars listas. För konsekvensens skull skulle vi kunna ta bort dessa ur metadata-filen innan vi skrapar hem artiklar.
 *	I B-kolumnen anges också titlar på de enskilda tidskriftsnumren (alltså de som står listade som ”periodical issue” i H-kolumnen.
 
-C-kolumnen: ”Catalogue – Authors”. Anger om det finns en utskriven författare till respektive artikel. Sorterat på article (7639 st) finns det 6238 artiklar (81,7 %) som har en författare, varav 4343 är unika författare (inkl sådana som anges som ”UNESCO”). 
-o	Författare anges först med efternamn sedan förnamn (t ex ”Guerrero, Carolina interviewee”). Om det är flera författare på en artikel avskiljs dessa med | (t ex ”Guerrero, Carolina|Iglesias Kuntz, Lucía”). 
-o	Om det är någon som blir intervjuad kan det iaf ibland stå så här: ”Markelova, Katerina interviewer|Dvortsevoï, Sergueï interviewee|Yeslyamova, Samal interviewee”. 
-o	Om någon är med som fotograf kan det ibland också stå så här: ”Ferroukhi, Nadia photographer”, men inte alltid, i denna artikel är t ex den ena författare och den andra fotograf: ”Markelova, Katerina|Dormino, Marco”. 
-o	Ibland kan det även stå så här: ”Patou-Mathis, Marylène author”. 
-o	Ibland kan det bli fel då det är en intervjuartikel och det blir intervjupersonen som står som författare tillsammans med organisationen som intervjuade, som här: ”Gargallo, Ligia|UNESCO Office Santiago and Regional Bureau for Education in Latin America and the Caribbean”
-•	D-kolumnen: ”Titles in other languages”. Anger de andra språk som artikeln har översatts till. Det totalt rör sig om 83 poster som inte har engelska titlar som första andraspråk.
-o	Om det första språket som anges i E-kolumnen ”Languages” är engelska (”eng”) är det andra språk som anges i ”Titles in other languages” (t ex franska och spanska). Om det är ett annat huvudspråk som anges i ”Language” (t ex ”fre|eng spa rus ara por chi cat kor”) är det i regel i den språkordningen som artikeltitlarna ges, med ”|” som avskiljare: 
+**C-kolumnen: ”Catalogue – Authors”.** Anger om det finns en utskriven författare till respektive artikel. Sorterat på article (7639 st) finns det 6238 artiklar (81,7 %) som har en författare, varav 4343 är unika författare (inkl sådana som anges som ”UNESCO”). 
+*	Författare anges först med efternamn sedan förnamn (t ex ”Guerrero, Carolina interviewee”). Om det är flera författare på en artikel avskiljs dessa med | (t ex ”Guerrero, Carolina|Iglesias Kuntz, Lucía”). 
+*	Om det är någon som blir intervjuad kan det iaf ibland stå så här: ”Markelova, Katerina interviewer|Dvortsevoï, Sergueï interviewee|Yeslyamova, Samal interviewee”. 
+*	Om någon är med som fotograf kan det ibland också stå så här: ”Ferroukhi, Nadia photographer”, men inte alltid, i denna artikel är t ex den ena författare och den andra fotograf: ”Markelova, Katerina|Dormino, Marco”. 
+*	Ibland kan det även stå så här: ”Patou-Mathis, Marylène author”. 
+*	Ibland kan det bli fel då det är en intervjuartikel och det blir intervjupersonen som står som författare tillsammans med organisationen som intervjuade, som här: ”Gargallo, Ligia|UNESCO Office Santiago and Regional Bureau for Education in Latin America and the Caribbean”
+
+**D-kolumnen: ”Titles in other languages”.** Anger de andra språk som artikeln har översatts till. Det totalt rör sig om 83 poster som inte har engelska titlar som första andraspråk.
+*	Om det första språket som anges i E-kolumnen ”Languages” är engelska (”eng”) är det andra språk som anges i ”Titles in other languages” (t ex franska och spanska). Om det är ett annat huvudspråk som anges i ”Language” (t ex ”fre|eng spa rus ara por chi cat kor”) är det i regel i den språkordningen som artikeltitlarna ges, med ”|” som avskiljare: 
 	”Burkina Faso: addicted to radio|Burkina Faso, un país adicto a la radio|Burkina Faso: viciados em rádio|Burkina Faso, un país addicte a la ràdio”
 o	I vissa enstaka fall kommer den engelska titeln före i ordningen, t ex i följande fall ”fre|spa rus ara eng chi epo” gavs först en spansk titel följt av en engelsk titel (och hoppade således över ryska och arabiska, som för övrigt inte fanns med bland titlarna i andra språk). 
 •	E-kolumnen: ”Languages”. Ange vilka språk som artiklarna gavs ut på. Huvudspråket anges först och om det finns översatt anges det efter ett ”|”, t ex ”eng|ara chi fre por rus spa epo srd”. 
