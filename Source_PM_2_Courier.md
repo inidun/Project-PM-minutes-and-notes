@@ -22,8 +22,8 @@ Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för 
 *	Ibland kan det bli fel då det är en intervjuartikel och det blir intervjupersonen som står som författare tillsammans med organisationen som intervjuade, som här: ”Gargallo, Ligia|UNESCO Office Santiago and Regional Bureau for Education in Latin America and the Caribbean”
 
 **D-kolumnen: ”Titles in other languages”.** Anger de andra språk som artikeln har översatts till. Det totalt rör sig om 83 poster som inte har engelska titlar som första andraspråk.
-* Item 1 Om det första språket som anges i E-kolumnen ”Languages” är engelska (”eng”) är det andra språk som anges i ”Titles in other languages” (t ex franska och spanska). Om det är ett annat huvudspråk som anges i ”Language” (t ex ”fre|eng spa rus ara por chi cat kor”) är det i regel i den språkordningen som artikeltitlarna ges, med ”|” som avskiljare: 
-  * Item 1a	”Burkina Faso: addicted to radio|Burkina Faso, un país adicto a la radio|Burkina Faso: viciados em rádio|Burkina Faso, un país addicte a la ràdio”
+* Om det första språket som anges i E-kolumnen ”Languages” är engelska (”eng”) är det andra språk som anges i ”Titles in other languages” (t ex franska och spanska). Om det är ett annat huvudspråk som anges i ”Language” (t ex ”fre|eng spa rus ara por chi cat kor”) är det i regel i den språkordningen som artikeltitlarna ges, med ”|” som avskiljare: 
+  *	”Burkina Faso: addicted to radio|Burkina Faso, un país adicto a la radio|Burkina Faso: viciados em rádio|Burkina Faso, un país addicte a la ràdio”
 *	I vissa enstaka fall kommer den engelska titeln före i ordningen, t ex i följande fall ”fre|spa rus ara eng chi epo” gavs först en spansk titel följt av en engelsk titel (och hoppade således över ryska och arabiska, som för övrigt inte fanns med bland titlarna i andra språk).  
 
 **E-kolumnen: ”Languages”.** Ange vilka språk som artiklarna gavs ut på. Huvudspråket anges först och om det finns översatt anges det efter ett ”|”, t ex ”eng|ara chi fre por rus spa epo srd”. 
