@@ -32,7 +32,7 @@ Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för 
   * 2007:3 (ett nummer om museum) som bara finns på franska, spanska och ryska. 
   * En artikel i numret 1956:5 (Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde IX, 5 p. 29 78152 fre) som handlar om skilda saker i den engelska versionen (om London och dialekter) och i den franska (om en skola och dess elever (?)). 
   * Ett sista (?) exempel är från 1956:5 på sida 10 där det finns en liten del av artikeln (en slags faktaruta) som bara finns på franska (möjligen för att det fanns utrymme att fylla ut sidan efter översättningen). 
-* Item 2 Följande poster har felaktigt angivet att artiklarna bara finns på andra språk än engelska:
+* Följande poster har felaktigt angivet att artiklarna bara finns på andra språk än engelska:
   * El Correo de la UNESCO I, 7 p. 3 73809 spa
   * El Correo de la UNESCO I, 8 p. 8 73829 spa
   * El Correo de la UNESCO II, 7 p. 9 74029 spa
@@ -52,7 +52,7 @@ Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för 
 
 **I-kolumnen: ”Host item”.** Anger bl a information om varje artikels volym, tidskriftsnummer, sidnummer och id-numret för respektive tidskriftsnummer. Detta görs upprepande för respektive språk som artikeln är översatt till (separerat med ”|”). Nedan är ett exempel från Courier 1983 no 3: 
 *	”The UNESCO Courier: a window open on the world XXXVI, 3 p. 4-7, illus. 74689 eng|(UNESCO courier (Arabic)) XXXVI, 3 p. 4-7, illus. 74689 ara|(The UNESCO Courier (Chinese)) XXXVI, 3 p. 4-7, illus. 74689 chi|Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde XXXVI, 3 p. 4-7, illus. 74689 fre|Kur'er Yunesko XXXVI, 3 p. 4-7, illus. 74689 rus|El Correo de la UNESCO: una ventana abierta sobre el mundo XXXVI, 3 p. 4-7, illus. 74689 spa”. Här utgör XXXVI = volymnummer. 3 = tidskriftsnummer. p. 4-7 = sidnummer. 74689 = id-numret för tidskriftsnumret.
-* Item 1	Angående volym- och tidskriftsnummer (liksom namnet på tidskriften) finns det finns variation för hur detta skrivs ut:
+* Angående volym- och tidskriftsnummer (liksom namnet på tidskriften) finns det finns variation för hur detta skrivs ut:
   * The UNESCO Courier 1948–1954 enligt principen: “The UNESCO courier VII, 3 p. 14-15, illus. 69904 eng”. Här anges volymnumret med romerska siffror och tidskriftsnumret med vanliga siffror.
   * The UNESCO Courier: a window open on the world 1955¬–1995 anges enligt principen: “The UNESCO Courier: a window open on the world VIII, 1 p. 5-7, illus. 68948 eng”. Här anges volymnumret med romerska siffror och tidskriftsnumret med vanliga siffror. 
   * The UNESCO courier: a window open on the world 1996–1998 (fram till 1998:9) enligt principen: “The UNESCO courier: a window open on the world 49, 10 p. 50 104412 eng”. Här anges både volym- och tidskriftsnumret med vanliga siffror.
