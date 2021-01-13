@@ -77,7 +77,8 @@ The UNESCO courier 2010 har 1 nummer som anges så här: “The UNESCO courier S
 
 **Förslag på process för att extrahera enskilda artiklar med metadata**
 1.	Ladda ner varje nummer av Courier och förse dem med metadata för volym/år, tidskriftsnummer och id-nummer (se Kolumn-I och Kolumn-J). Från omkring år 2000 kommer det finnas större behov av manuell påläggning. Detta steg bör vara förhållandevis enkelt att utföra.
-2.	Stycka upp varje nummer av Courier efter artiklar baserat på sidhänvisning (se Kolumn-I). Detta kommer kräva en hel del manuell påläggning för att kontrollera att rätt text hör till rätt artikel. Detta arbete bör därför göras stegvis (kanske för varje femårsperiod) för att lära sig av misstag och förbättra processen.<br /><br /><br />
+2.	Stycka upp varje nummer av Courier efter artiklar baserat på sidhänvisning (se Kolumn-I). Detta kommer kräva en hel del manuell påläggning för att kontrollera att rätt text hör till rätt artikel. Detta arbete bör därför göras stegvis (kanske för varje femårsperiod) för att lära sig av misstag och förbättra processen.
+3.	Förse varje artikel/textfil med ytterligare metadata för artikeltitel (Kolumn-B alt. Kolumn-D), författare (Kolumn-C) och möjligen även keywords (Kolumn-G). När väl steg 2 är utfört är bör det vara relativt enkelt att förse varje enskild artikel med metadata från respektive kolumn. <br /><br /><br />
 
 
 
