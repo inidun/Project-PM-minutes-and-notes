@@ -26,7 +26,7 @@ Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för 
   * "Burkina Faso: addicted to radio|Burkina Faso, un país adicto a la radio|Burkina Faso: viciados em rádio|Burkina Faso, un país addicte a la ràdio”
 *	I vissa enstaka fall kommer den engelska titeln före i ordningen, t ex i följande fall ”fre|spa rus ara eng chi epo” gavs först en spansk titel följt av en engelsk titel (och hoppade således över ryska och arabiska, som för övrigt inte fanns med bland titlarna i andra språk).  
 
-**E-kolumnen: ”Languages”.** Ange vilka språk som artiklarna gavs ut på. Huvudspråket anges först och om det finns översatt anges det efter ett ”|”, t ex ”eng|ara chi fre por rus spa epo srd”. 
+**E-kolumnen: ”Languages”.** Ange vilka språk som artiklarna gavs ut på. Huvudspråket anges först och om det finns översatt anges det efter ett ”|”, t ex ”eng|ara chi fre por rus spa epo srd”.
 *	Item 1 Nästan alla finns i en engelsk version, men några enstaka gavs också ut bara på andra språk: 
   * Item 1a Tex det enda numret 2012, och aprilnumret 2007. 
   * Item 1b 2007:3 (ett nummer om museum) som bara finns på franska, spanska och ryska. 
