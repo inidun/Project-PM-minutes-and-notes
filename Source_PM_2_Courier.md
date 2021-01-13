@@ -14,7 +14,8 @@ Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för 
 * Det språk som anges är det som anges först i E-kolumnen (”Languages”). Om det istället står t ex ”fre|eng spa rus ara por chi cat kor” i E-kolumnen anges franska som titel i B-kolumnen (”Catalogue – Title”). I D-kolumnen (”Titles in other languages”) anges sedan titeln på de översatta språken (i den ordning som anges i E-kolumnen med ”|” som avskiljare), t ex: ”Powerful women|El poder de las mujeres|Mulheres poderosas|Dones poderoses”. I nästan alla artiklar som inte har engelska som huvudspråk anges det alltid som andraspråk (50 artiklar undantagna). Vi kan med andra ord skapa en regel som säger att när eng inte är huvudspråk ska skriptet ta den första textsträngen som slutar med ”|”
 * Det finns ett 30-tal artiklar som är editorials, vilket nästan aldrig annars listas. För konsekvensens skull skulle vi kunna ta bort dessa ur metadata-filen innan vi skrapar hem artiklar.
 * I B-kolumnen anges också titlar på de enskilda tidskriftsnumren (alltså de som står listade som ”periodical issue” i H-kolumnen.
-
+<br/>
+<br/>
 **C-kolumnen: ”Catalogue – Authors”.** Anger om det finns en utskriven författare till respektive artikel. Sorterat på article (7639 st) finns det 6238 artiklar (81,7 %) som har en författare, varav 4343 är unika författare (inkl sådana som anges som ”UNESCO”). 
 *	Författare anges först med efternamn sedan förnamn (t ex ”Guerrero, Carolina interviewee”). Om det är flera författare på en artikel avskiljs dessa med | (t ex ”Guerrero, Carolina|Iglesias Kuntz, Lucía”). 
 *	Om det är någon som blir intervjuad kan det iaf ibland stå så här: ”Markelova, Katerina interviewer|Dvortsevoï, Sergueï interviewee|Yeslyamova, Samal interviewee”. 
@@ -26,7 +27,8 @@ Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för 
 * Om det första språket som anges i E-kolumnen ”Languages” är engelska (”eng”) är det andra språk som anges i ”Titles in other languages” (t ex franska och spanska). Om det är ett annat huvudspråk som anges i ”Language” (t ex ”fre|eng spa rus ara por chi cat kor”) är det i regel i den språkordningen som artikeltitlarna ges, med ”|” som avskiljare: 
   * "Burkina Faso: addicted to radio|Burkina Faso, un país adicto a la radio|Burkina Faso: viciados em rádio|Burkina Faso, un país addicte a la ràdio”
 *	I vissa enstaka fall kommer den engelska titeln före i ordningen, t ex i följande fall ”fre|spa rus ara eng chi epo” gavs först en spansk titel följt av en engelsk titel (och hoppade således över ryska och arabiska, som för övrigt inte fanns med bland titlarna i andra språk).  
-
+<br/>
+<br/>
 **E-kolumnen: ”Languages”.** Ange vilka språk som artiklarna gavs ut på. Huvudspråket anges först och om det finns översatt anges det efter ett ”|”, t ex ”eng|ara chi fre por rus spa epo srd”.
 *	Item 1 Nästan alla finns i en engelsk version, men några enstaka gavs också ut bara på andra språk: 
   * Item 1a Tex det enda numret 2012, och aprilnumret 2007. 
@@ -41,16 +43,20 @@ o	Följande poster har felaktigt angivet att artiklarna bara finns på andra spr
 	El Correo de la UNESCO III, 6/7 p. 13, illus., port. 81475 spa
 	El Correo de la UNESCO III, 9 p. 2, illus. 81564 spa
 	El Correo de la UNESCO: una ventana abierta sobre el mundo IX, 5 p. 29 78152 spa
-
+<br/>
+<br/>
 **F-kolumnen: ”Series”.** Anger de olika Courier-numren (volym och nummer), alltså inte enskilda artiklar, angivet i olika språk avgränsade med ”|”, t ex: 
 o	”The UNESCO Courier: a window open on the world VIII, 10|Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde VIII, 10|El Correo de la UNESCO: una ventana abierta sobre el mundo VIII, 10)”. Dock anges detta på lite olika sätt, för mer info se I-Kolumnen. 
 o	Här anges inte id-numret för publikationen, vilket det dock gör i I-kolumnen. 
-
+<br/>
+<br/>
 **G-kolumnen: ”Catalogue – Subjects”.** Unesco:s/Couriers keywords för vad varje artikel och nummer handlar om, enligt följande system: 
 * ”Transport engineering|Railway transport|International trade|Mexico|Development projects|Financial aid|World Bank”
- 
+ <br/>
+ <br/>
  **H-kolumnen: ”Document type”.** Anger om det är en 1) enskild artikel (article) eller 2) ett tidskriftsnummer (periodical issue) – vi kan därför ignorera alla ”periodical issue”
-
+<br/>
+<br/>
 **I-kolumnen: ”Host item”.** Anger bl a information om varje artikels volym, tidskriftsnummer, sidnummer och id-numret för respektive tidskriftsnummer. Detta görs upprepande för respektive språk som artikeln är översatt till (separerat med ”|”). Nedan är ett exempel från Courier 1983 no 3: 
 *	”The UNESCO Courier: a window open on the world XXXVI, 3 p. 4-7, illus. 74689 eng|(UNESCO courier (Arabic)) XXXVI, 3 p. 4-7, illus. 74689 ara|(The UNESCO Courier (Chinese)) XXXVI, 3 p. 4-7, illus. 74689 chi|Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde XXXVI, 3 p. 4-7, illus. 74689 fre|Kur'er Yunesko XXXVI, 3 p. 4-7, illus. 74689 rus|El Correo de la UNESCO: una ventana abierta sobre el mundo XXXVI, 3 p. 4-7, illus. 74689 spa”. Här utgör XXXVI = volymnummer. 3 = tidskriftsnummer. p. 4-7 = sidnummer. 74689 = id-numret för tidskriftsnumret.
 * Item 1	Angående volym- och tidskriftsnummer (liksom namnet på tidskriften) finns det finns variation för hur detta skrivs ut:
@@ -71,12 +77,15 @@ The UNESCO courier 2010 har 1 nummer som anges så här: “The UNESCO courier S
 o	Angående sidnummer står det oftast ”p.”, men ibland också ”pages”, ”page”. Ibland är det ”,” efter angivet sidnummer, om det är en artikel på olika spridda sidor kan det stå ”p. 16, p. 17” eller ”p. 7, 8”, om det finns med en illustration kan det stå ”p. 8, illus.”, vid någon enstaka gång kan det se ut så här: ”p.23-24, 33, maps” (alltså inget mellanslag mellan p. och sidnumret). 
 o	Angående id-numret för tidskriftsnumret anges detta alltid efter sidnumret. Id-numret är alltså samma för varje artikel som ingår i respektive tidskriftsnummer. Id-numret är viktigt då det är det numret som varje nummer av Courier döps till vid nerladdning!
 o	OBS! UNESCO Monitor gavs ut i 3 nummer under 1947 innan Courier lanseras och tar över. I Kolumn-I finns bara en artikel registrerad för Monitor. De tre tidskriftsnumren finns istället registrerade i Kolumn-B som ”UNESCO monitor, vol. 1, no. 1”, ”UNESCO monitor, vol. 1, no. 2” och ”UNESCO monitor, vol. 1, no. 3”. Antingen exkluderas dessa två nummer från analysen eller så kurerar vi dem själva för hand (de saknar nämligen metadata för artikeltitlar, sidnummer, författare etc).
-
+<br/>
+<br/>
 **J-kolumnen: ”Catalogue - Publication date”.** År finns för alla angivna artiklar. Hur detta skrivs skiftar lite, men det börjar alltid med året med fyra siffertecken (t ex 1965). Olika exempel: ”1983|May 1983”, ” 2018|Jan. - Mar. 2018”, ”1950”. Det är med andra ord lätt att extrahera ut årtalet för respektive artikel och kan användas istället för volymnummer!
-
+<br/>
+<br/>
 **K-kolumnen: ”Notes”.** Diverse anteckningar till artiklar och tidskriftsnummer. Omkring 2200 poster är försedda med anteckningar.
-
-
+<br/>
+<br/>
+<br/>
 Förslag på process för att extrahera enskilda artiklar med metadata
 1.	Ladda ner varje nummer av Courier och förse dem med metadata för volym/år, tidskriftsnummer och id-nummer (se Kolumn-I och Kolumn-J). Från omkring år 2000 kommer det finnas större behov av manuell påläggning. Detta steg bör vara förhållandevis enkelt att utföra.
 2.	Stycka upp varje nummer av Courier efter artiklar baserat på sidhänvisning (se Kolumn-I). Detta kommer kräva en hel del manuell påläggning för att kontrollera att rätt text hör till rätt artikel. Detta arbete bör därför göras stegvis (kanske för varje femårsperiod) för att lära sig av misstag och förbättra processen.
