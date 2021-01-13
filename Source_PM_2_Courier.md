@@ -5,7 +5,7 @@ Jag har gjort en ganska noga genomgång av ”metadata-file” för Courier. Met
 Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för att kurera Courier. 
 
 
-## Anteckningar om ”metadata-file” för Courier
+*Anteckningar om ”metadata-file” för Courier*
 
 **A-kolumnen: ”Record number”-** Anger ett unikt serienummer för respektive text (artikel eller tidskriftsnummer).<br /><br />
 
