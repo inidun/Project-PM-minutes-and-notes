@@ -46,7 +46,7 @@ Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för 
 **G-kolumnen: ”Catalogue – Subjects”.** Unesco:s/Couriers keywords för vad varje artikel och nummer handlar om, enligt följande system: 
 * ”Transport engineering|Railway transport|International trade|Mexico|Development projects|Financial aid|World Bank” <br /><br />
 
- **H-kolumnen: ”Document type”.** Anger om det är en 1) enskild artikel (article) eller 2) ett tidskriftsnummer (periodical issue) – **vi kan därför ignorera alla ”periodical issue”** <br /><br />
+ **H-kolumnen: ”Document type”.** Anger om det är en 1) enskild artikel (article) eller 2) ett tidskriftsnummer (periodical issue) – **vi kan därför ignorera alla ”periodical issue”** <br /><br /> 
 
 **I-kolumnen: ”Host item”.** Anger bl a information om varje artikels volym, tidskriftsnummer, sidnummer och id-numret för respektive tidskriftsnummer. Detta görs upprepande för respektive språk som artikeln är översatt till (separerat med ”|”). Nedan är ett exempel från Courier 1983 no 3: 
 *	”The UNESCO Courier: a window open on the world **XXXVI, 3 p. 4-7**, illus. **74689** eng|(UNESCO courier (Arabic)) XXXVI, 3 p. 4-7, illus. 74689 ara|(The UNESCO Courier (Chinese)) XXXVI, 3 p. 4-7, illus. 74689 chi|Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde XXXVI, 3 p. 4-7, illus. 74689 fre|Kur'er Yunesko XXXVI, 3 p. 4-7, illus. 74689 rus|El Correo de la UNESCO: una ventana abierta sobre el mundo XXXVI, 3 p. 4-7, illus. 74689 spa”. **Här utgör XXXVI = volymnummer. 3 = tidskriftsnummer. p. 4-7 = sidnummer. 74689 = id-numret för tidskriftsnumret.**
