@@ -1,4 +1,4 @@
-## Anteckningar om Courier
+## Anteckningar om Courier (augusti 2020) 
 
 
 __Kortfattad översikt__
