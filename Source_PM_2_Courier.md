@@ -6,7 +6,7 @@ Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för 
 
 
 Anteckningar om ”metadata-file” för Courier
-•	A-kolumnen: ”Record number”. Anger ett unikt serienummer för respektive text (artikel eller tidskriftsnummer).
+* A-kolumnen: ”Record number”. Anger ett unikt serienummer för respektive text (artikel eller tidskriftsnummer).
 •	B-kolumnen: ”Catalogue – Title”. Anger titeln för respektive artikel/tidskriftsnummer. 
 o	Det språk som anges är det som anges först i E-kolumnen (”Languages”). Om det istället står t ex ”fre|eng spa rus ara por chi cat kor” i E-kolumnen anges franska som titel i B-kolumnen (”Catalogue – Title”). I D-kolumnen (”Titles in other languages”) anges sedan titeln på de översatta språken (i den ordning som anges i E-kolumnen med ”|” som avskiljare), t ex: ”Powerful women|El poder de las mujeres|Mulheres poderosas|Dones poderoses”. I nästan alla artiklar som inte har engelska som huvudspråk anges det alltid som andraspråk (50 artiklar undantagna). Vi kan med andra ord skapa en regel som säger att när eng inte är huvudspråk ska skriptet ta den första textsträngen som slutar med ”|”
 o	Det finns ett 30-tal artiklar som är editorials, vilket nästan aldrig annars listas. För konsekvensens skull skulle vi kunna ta bort dessa ur metadata-filen innan vi skrapar hem artiklar.
