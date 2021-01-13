@@ -27,23 +27,23 @@ Efter redogörelsen följer ett kortfattat förslag på en trestegsprocess för 
 *	I vissa enstaka fall kommer den engelska titeln före i ordningen, t ex i följande fall ”fre|spa rus ara eng chi epo” gavs först en spansk titel följt av en engelsk titel (och hoppade således över ryska och arabiska, som för övrigt inte fanns med bland titlarna i andra språk).  <br /><br />
 
 **E-kolumnen: ”Languages”.** Ange vilka språk som artiklarna gavs ut på. Huvudspråket anges först och om det finns översatt anges det efter ett ”|”, t ex ”eng|ara chi fre por rus spa epo srd”.
-* Item 1 Nästan alla finns i en engelsk version, men några enstaka gavs också ut bara på andra språk: 
-  * Item 1aTex det enda numret 2012, och aprilnumret 2007.
-  * Item 1b 2007:3 (ett nummer om museum) som bara finns på franska, spanska och ryska. 
-  * Item 1c En artikel i numret 1956:5 (Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde IX, 5 p. 29 78152 fre) som handlar om skilda saker i den engelska versionen (om London och dialekter) och i den franska (om en skola och dess elever (?)). 
-  * Item 1d Ett sista (?) exempel är från 1956:5 på sida 10 där det finns en liten del av artikeln (en slags faktaruta) som bara finns på franska (möjligen för att det fanns utrymme att fylla ut sidan efter översättningen). 
+* Nästan alla finns i en engelsk version, men några enstaka gavs också ut bara på andra språk: 
+  * Tex det enda numret 2012, och aprilnumret 2007.
+  * 2007:3 (ett nummer om museum) som bara finns på franska, spanska och ryska. 
+  * En artikel i numret 1956:5 (Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde IX, 5 p. 29 78152 fre) som handlar om skilda saker i den engelska versionen (om London och dialekter) och i den franska (om en skola och dess elever (?)). 
+  * Ett sista (?) exempel är från 1956:5 på sida 10 där det finns en liten del av artikeln (en slags faktaruta) som bara finns på franska (möjligen för att det fanns utrymme att fylla ut sidan efter översättningen). 
 * Item 2 Följande poster har felaktigt angivet att artiklarna bara finns på andra språk än engelska:
-  * Item 2a El Correo de la UNESCO I, 7 p. 3 73809 spa
-  * Item 2b El Correo de la UNESCO I, 8 p. 8 73829 spa
-  * Item 2c El Correo de la UNESCO II, 7 p. 9 74029 spa
-  * Item 2d El Correo de la UNESCO III, 4 p. 11, illus. 81370 spa
-  * Item 2e El Correo de la UNESCO III, 6/7 p. 13, illus., port. 81475 spa
-  * Item 2f El Correo de la UNESCO III, 9 p. 2, illus. 81564 spa
-  * Item 2g El Correo de la UNESCO: una ventana abierta sobre el mundo IX, 5 p. 29 78152 spa <br /><br />
+  * El Correo de la UNESCO I, 7 p. 3 73809 spa
+  * El Correo de la UNESCO I, 8 p. 8 73829 spa
+  * El Correo de la UNESCO II, 7 p. 9 74029 spa
+  * El Correo de la UNESCO III, 4 p. 11, illus. 81370 spa
+  * El Correo de la UNESCO III, 6/7 p. 13, illus., port. 81475 spa
+  * El Correo de la UNESCO III, 9 p. 2, illus. 81564 spa
+  * El Correo de la UNESCO: una ventana abierta sobre el mundo IX, 5 p. 29 78152 spa <br /><br />
 
 **F-kolumnen: ”Series”.** Anger de olika Courier-numren (volym och nummer), alltså inte enskilda artiklar, angivet i olika språk avgränsade med ”|”, t ex: 
-o	”The UNESCO Courier: a window open on the world VIII, 10|Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde VIII, 10|El Correo de la UNESCO: una ventana abierta sobre el mundo VIII, 10)”. Dock anges detta på lite olika sätt, för mer info se I-Kolumnen. 
-o	Här anges inte id-numret för publikationen, vilket det dock gör i I-kolumnen. <br /><br />
+* ”The UNESCO Courier: a window open on the world VIII, 10|Le Courrier de l'UNESCO: une fenêtre ouverte sur le monde VIII, 10|El Correo de la UNESCO: una ventana abierta sobre el mundo VIII, 10)”. Dock anges detta på lite olika sätt, för mer info se I-Kolumnen. 
+* Här anges inte id-numret för publikationen, vilket det dock gör i I-kolumnen. <br /><br />
 
 **G-kolumnen: ”Catalogue – Subjects”.** Unesco:s/Couriers keywords för vad varje artikel och nummer handlar om, enligt följande system: 
 * ”Transport engineering|Railway transport|International trade|Mexico|Development projects|Financial aid|World Bank” <br /><br />
@@ -67,9 +67,9 @@ The UNESCO courier 2010 har 1 nummer som anges så här: “The UNESCO courier S
   * 2012-numret gavs bara ut på franska och då enligt principen: ”Le Courrier de l'UNESCO Numéro spécial, avril 2012 p. 10-11, illus. 216066 fre”.
  	* Uppehåll för Courier 2013–2016.
   * The UNESCO courier 2017–2019 ger ut 4 nummer per år enligt principen: “The UNESCO courier 1 p. 16-17, illustration 366654 eng”. Volymnumret anges inte i Kolumn-I.
-o	Angående sidnummer står det oftast ”p.”, men ibland också ”pages”, ”page”. Ibland är det ”,” efter angivet sidnummer, om det är en artikel på olika spridda sidor kan det stå ”p. 16, p. 17” eller ”p. 7, 8”, om det finns med en illustration kan det stå ”p. 8, illus.”, vid någon enstaka gång kan det se ut så här: ”p.23-24, 33, maps” (alltså inget mellanslag mellan p. och sidnumret). 
-o	Angående id-numret för tidskriftsnumret anges detta alltid efter sidnumret. Id-numret är alltså samma för varje artikel som ingår i respektive tidskriftsnummer. Id-numret är viktigt då det är det numret som varje nummer av Courier döps till vid nerladdning!
-o	OBS! UNESCO Monitor gavs ut i 3 nummer under 1947 innan Courier lanseras och tar över. I Kolumn-I finns bara en artikel registrerad för Monitor. De tre tidskriftsnumren finns istället registrerade i Kolumn-B som ”UNESCO monitor, vol. 1, no. 1”, ”UNESCO monitor, vol. 1, no. 2” och ”UNESCO monitor, vol. 1, no. 3”. Antingen exkluderas dessa två nummer från analysen eller så kurerar vi dem själva för hand (de saknar nämligen metadata för artikeltitlar, sidnummer, författare etc). <br /><br />
+* Angående sidnummer står det oftast ”p.”, men ibland också ”pages”, ”page”. Ibland är det ”,” efter angivet sidnummer, om det är en artikel på olika spridda sidor kan det stå ”p. 16, p. 17” eller ”p. 7, 8”, om det finns med en illustration kan det stå ”p. 8, illus.”, vid någon enstaka gång kan det se ut så här: ”p.23-24, 33, maps” (alltså inget mellanslag mellan p. och sidnumret). 
+* Angående id-numret för tidskriftsnumret anges detta alltid efter sidnumret. Id-numret är alltså samma för varje artikel som ingår i respektive tidskriftsnummer. Id-numret är viktigt då det är det numret som varje nummer av Courier döps till vid nerladdning!
+* OBS! UNESCO Monitor gavs ut i 3 nummer under 1947 innan Courier lanseras och tar över. I Kolumn-I finns bara en artikel registrerad för Monitor. De tre tidskriftsnumren finns istället registrerade i Kolumn-B som ”UNESCO monitor, vol. 1, no. 1”, ”UNESCO monitor, vol. 1, no. 2” och ”UNESCO monitor, vol. 1, no. 3”. Antingen exkluderas dessa två nummer från analysen eller så kurerar vi dem själva för hand (de saknar nämligen metadata för artikeltitlar, sidnummer, författare etc). <br /><br />
 
 **J-kolumnen: ”Catalogue - Publication date”.** År finns för alla angivna artiklar. Hur detta skrivs skiftar lite, men det börjar alltid med året med fyra siffertecken (t ex 1965). Olika exempel: ”1983|May 1983”, ” 2018|Jan. - Mar. 2018”, ”1950”. Det är med andra ord lätt att extrahera ut årtalet för respektive artikel och kan användas istället för volymnummer! <br /><br />
 
@@ -79,10 +79,9 @@ o	OBS! UNESCO Monitor gavs ut i 3 nummer under 1947 innan Courier lanseras och t
 
 Förslag på process för att extrahera enskilda artiklar med metadata
 1.	Ladda ner varje nummer av Courier och förse dem med metadata för volym/år, tidskriftsnummer och id-nummer (se Kolumn-I och Kolumn-J). Från omkring år 2000 kommer det finnas större behov av manuell påläggning. Detta steg bör vara förhållandevis enkelt att utföra.
-2.	Stycka upp varje nummer av Courier efter artiklar baserat på sidhänvisning (se Kolumn-I). Detta kommer kräva en hel del manuell påläggning för att kontrollera att rätt text hör till rätt artikel. Detta arbete bör därför göras stegvis (kanske för varje femårsperiod) för att lära sig av misstag och förbättra processen.
-3.	Förse varje artikel/textfil med ytterligare metadata för artikeltitel (Kolumn-B alt. Kolumn-D), författare (Kolumn-C) och möjligen även keywords (Kolumn-G). När väl steg 2 är utfört är bör det vara relativt enkelt att förse varje enskild artikel med metadata från respektive kolumn.
+2.	Stycka upp varje nummer av Courier efter artiklar baserat på sidhänvisning (se Kolumn-I). Detta kommer kräva en hel del manuell påläggning för att kontrollera att rätt text hör till rätt artikel. Detta arbete bör därför göras stegvis (kanske för varje femårsperiod) för att lära sig av misstag och förbättra processen.<br /><br /><br />
 
- 
+
 
 
 
