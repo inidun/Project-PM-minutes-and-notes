@@ -1,5 +1,25 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 19 January 2021 (via zoom) 
+
+_Agenda_
+
+1. Updates
+   * Hur ser VT21 ut för oss?
+   * Status of communication with UNESCO
+   
+1. Review notes from December meeting
+   * VT21 meeting schedule OK?
+   * Take (final) decision on issue of where to store data
+   
+1. Discuss [2021 planning document](https://github.com/inidun/Project-PM-minutes-and-notes/blob/master/2021_planning_doc.md)
+   * Goals OK?
+   * Work flow OK?
+   * Tasks OK?
+   
+1. Take decisions re: VT21 goals and working methods
+
+1. Close meeting
 
 ### Notes on meeting, 8 December 2020
 
