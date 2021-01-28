@@ -2,6 +2,44 @@
 
 ### Meeting, 19 January 2021 (via zoom) 
 
+_Notes_
+
+1. Updates
+   * During 2021 Fredrik will be on the project at 15%, but with some flexibility. 
+   * Ben may choose to reduce his active percentage during 2022, so as to keep the project active longer.
+   
+1. Meeting schedule is OK.
+
+1. Project goals (as outlined in [2021 Planning Document](https://github.com/inidun/Project-PM-minutes-and-notes/blob/master/2021_planning_doc.md)) are OK.
+
+1. Data storage
+   * Roger reports that GitHub can host much larger files than we thought. The guiding principle is that items about which we want detailed, careful information on changes and versioning should be kept in GitHub. Everything else can be on google drive.
+   So, here is the new, revised version of our data storage plan:
+   * GitHub: 
+     - All UNESCO text corpora (in the versions we scrape or receive from UNESCO, and in curated versions)
+     - Metadata files (for example, indexes that we receive from UNESCO or create ourselves)
+     - Code written for the project
+     - Project website and blog
+   * Google Drive: in folder called [INIDUN (drive)](https://drive.google.com/drive/folders/15bjGlGLLWcyxoZbcUSBu2FkNtI-8kRXH):
+     - Outputs (for example, data outputs that R and A produced in response to requests from B or F, or that that B or F create themselves)
+       - OBS: These should be saved with carefully marked (and dated) titles, in a clear system of folders 
+     - Drafts of texts we write for publication
+   * TASK: Ben will move some things from Drive to GitHub  
+
+1. Jupyter
+   * Roger showed us the new jupyter pages for the project.
+   * TASK: B and F will look at these and prepare questions for next meeting, 2 February. 
+
+1. Work flow
+   * Since these jupyter pages are already up, Ben will revise work flow section of 2021 planning document.
+   * A general principle: start cheap! This means, 
+     - B and F should ask R and A for simple things first, for exploratory research.
+     - As research questions stabilize, we ask for bespoke tools.
+
+1. Topics for next meeting (2 Feb):
+   * Jupyter pages: discuss B and F questions
+   * Curating _Courier_: decide on approach, next steps.
+
 _Agenda_
 
 1. Updates
