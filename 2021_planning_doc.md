@@ -11,6 +11,7 @@ Following up on our last meeting of 2020, this document includes:
 1. Complete and submit one article, on text analysis of UNESCO SSIs: **15 June 2021**
    * Create (and publish?) a jupyter page related to this article     
      * _QUESTION_: is this jupyter page a _tool for writing_ the article, or primiarly a way of _showing_ how the work was done?
+     * _ANSWER_: Both! But in different ways. We should use the newly launched Jupyter pages as one means of working with the SSI corpus. Eventually, we may choose to create a specific jupyter page, related to a particular pulbication and designed for public viewing. 
 
 1. Complete text curating of _Courier_
    * Goal: a finalized corpus, ready for machine reading: **15 December 2021**
@@ -21,8 +22,9 @@ Following up on our last meeting of 2020, this document includes:
 1. Participate in conference(s)
    * Already scheduled: History of Concepts Conference, Berlin, 2-4 September 2021 (Ben)
    * Identify relevant conferences, apply
+     * Idéhistoria på gång, Lund, May 2021 (?) 
      * ENIUGH Congress, Åbo, June 2021
-     * EADH Congress, Krasnoyarsk, Russia, September 2021 [?]
+     * EADH Congress, Krasnoyarsk, Russia, September 2021 [Nope]
      * Digital History in Sweden, Umeå, December 2021
    * Plan our own (small) event, for 2022
      * Decide re: date and theme of event by **15 June 2021**
@@ -33,17 +35,17 @@ Following up on our last meeting of 2020, this document includes:
 ### WORK FLOW
 
 **Suggested Order of Events:**
-  1. Focus first on SSI article (and related text analysis tasks, jupyter page) (VT21)
-  1. THEN focus on curating Courier and Proceedings (probably not really until HT21)
+  During VT21 we will pursue two tasks in parallel:
+  1. SSI article (and related text analysis tasks) (VT21)
+  1. Curating _Courier_ 
+  * Curating _Proceedings_ will probably not be until HT21.
 
 1. Work Flow for SSI Article
-   1. F and B explore corpus in Excel and/or Voyant
+   1. F and B explore corpus in jupyter (and various of its outputs in Excel).
    1. F and B identify most relevant methods for this article
-   1. F and B present tools-request to R and A
-   1. R and A make tools available, either through Penelope or a new jupyter page
-   1. R and A create jupyter page, based on F and B's request and using existing tools
-   1. Devote a few meetings just to working through jupyter page together. 
-  
+   1. If we want to create a public, article-specific jupyter page: 
+      * F and B present tools-request to R and A
+      * R and A make tools available on a new jupyter page  
 Or:
 
 * _IDEA: plan this as a set of "scrum sprints"_
@@ -53,7 +55,7 @@ Or:
       * OUTPUT of sprint: 
         1. A decision re: which approaches to focus on 
         1. An outline of main arguments 
-        1. A detailed, specific tools-request, to present to R and A
+        1. A detailed, specific tools-request, to present to R and A (maybe)
       * (Maybe repeat this sprint a few times)
    1. Sprint 2:
       * R and A create jupyter page, based on F and B's request and using existing tools
@@ -91,7 +93,7 @@ Or:
       * Meeting goals (after one or more meetings):  
         1. A decision re: which approaches to focus on 
         1. An outline of main arguments 
-        1. A detailed, specific tools-request, to present to R and A
+        1. (Maybe) A detailed, specific tools-request, to present to R and A
    
 1. Tasks: Text curating
   1. Finalize communication with UNESCO archive re: metadata lists and file access (Ben)
@@ -110,7 +112,7 @@ Or:
       * _QUESTION_: When is this finished? (What is the benchmark?)
       
 1. Re: Conferences
-   1. Write proposal to EADH Conference: [DEADLINE: 24 Jan 2021] (Ben) (?)
+   1. Write proposal to EADH Conference: [DEADLINE: 24 Jan 2021] (Ben) (Decided not to do this.)
    1. Write proposal to ENIUGH Conference: [DEADLINE: 15 Feb 2021] (Ben)
 
   
