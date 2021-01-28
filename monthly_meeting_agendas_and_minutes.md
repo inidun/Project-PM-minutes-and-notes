@@ -1,5 +1,17 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 2 February 2021 (via zoom) 
+
+_Agenda_
+
+1. Discuss Jupyter pages: questions, problems?
+
+1. Curating _Courier_: status?
+
+1. Data storage
+   * Potential problem: I see that the GitHub repro UNESCO_data_collection (designed for code related to actually scraping/collecting the data), in a subfolder called "data", we are keeping the Proceedings files that we scraped in 2019, and the SSI files that we scraped, as well as later, edited versions of these, like the one I made with the dates first (for easier use in Voyant). Isn't this creating confusion? That is, the actual corpora should not live there, but in "INIDUN_data", no? 
+   
+
 ### Meeting, 19 January 2021 (via zoom) 
 
 _Notes_
