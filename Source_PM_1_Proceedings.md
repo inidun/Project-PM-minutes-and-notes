@@ -61,10 +61,16 @@ __NOTES on curating decisions__
   * Along the way, determine how hard it would be to also curate the total, as Corpus 2.
     * Perhaps this Corpus 2 could be curated at a lower level of precision, just as a bag of words (per year), without the subtle details of marked-up individual speeches, etc. 
 
+3 Feb 2021:
+I will create a new .txt file including only the text from the verbatim minutes of the sessions ("Plenary Meetings") of the General Conference. Each such file will be called number_language_pm_corr.txt. PM for "Plenary Meeting", corr for "corrected" (to show that it is a finished, quality-controlled file). So for example: 114592_eng_pm_corr.txt. These will be saved in a folder called "Proceedings_PM_txt_files". When finished, they will be the content of Proceedings corpus 1.
+
 ...
 __NOTES re: OCR and other technical matters__
 
 3 Feb 2021: An OCR test: I opened a PDF (of those I received from UNESCO archive, 214793_eng_0029: the first page of the 1947 Plenary Session) in Adobe acrobat pro, and ran "Recognize text" on English UK, Output: editable text and images, Downsample to: 600 dpi. Then copied and pasted the text from the document and put it in a .txt file. This produced a pretty messy text, see "Adobe OCR test...", which I have saved in INIDUN_data, in a folder called "OCR_TESTS_Proceedings".
 
-* How (specifically) did Roger produce the Proceedings .txt files that he scraped in March 2019? (Add a note on this here!)
-* Are these good enough to use as is, or do we need to do them again?
+* How (specifically) did Roger produce the Proceedings .txt files that he scraped in March 2019? 
+  * The versions of these documents that you can see in UNESDOC are, in fact, already OCRed texts produced (by UNESCO) from PDFs. There is a button you can press to see the original PDFs, but this does not always work (in the case of the 1953 second extraordinary session Proceedings, 114592).
+
+* Are these text files good enough to use as is, or do we need to do them again? 
+  * If not: Can we get access to the original PDFs so that we can do the OCR ourselves?
