@@ -2,6 +2,25 @@
 
 ### Meeting, 2 February 2021 (via zoom) 
 
+_Notes_
+
+1. We discussed the data storage question list as item three in agenda (below). Decided to move scraped files out of "UNESCO_data_collection" and into INIDUN_data. Ben made copies of his own, edited versions of the SSI corpus (divided into blocs, with year first) and saved these on google drive.
+
+1. B showed the _Proceedings_ metadata file we recently received from UNESCO. 
+   * Ben will edit this excel file by adding various columns to it, with which to keep track of things like: do we have it? Has the OCR been quality controlled? Is the sourse the UNESCO digital archive or UNESDOC, is the text in English or English+French, and (importantly) which are the relevant pages we want for inclusion in the corpus? 
+   * R explained that if we want GitHub to "version" each small change we make in the document I will need to save it as a CSV file, at least sometimes, in addition to keeping it in Excel.
+
+1. R and A showed us preliminary results of using tesseract to do a new OCR of a sample of Courier PDFs. R, A, and F agreed on various tests to move forward toward a curated digital txt corpus of Courier.
+
+1. We looked through the jupyter pages related to the UNESCO SSIs (legal instruments).
+   * We found a bug in the POS_statistics page: the relative frequency of all parts of speech seemed to go up, following the curve of the total number of tokens, even when the "normalize" button was clicked. R and A will look into this. 
+   * Also, the tokens counter included delimiters (punctuation). (Should it?)
+
+1. __Next steps:__ 
+   * R, A and F will continue work on _Courier_
+   * B and F will meet on 16/2 to discuss ideas for an article re: UNESCO SSIs. Will assemble questions for R and A re: jupyter, and/or create "issues" in GitHub. 
+   
+
 _Agenda_
 
 1. Discuss Jupyter pages: questions, problems?
