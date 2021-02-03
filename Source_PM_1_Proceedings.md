@@ -35,9 +35,28 @@ NOTES on specific volumes
 * re: 2015 Proceedings: Same as 2009 in layout and language policy.
 
 __Decisions to be made__
-* Do we have all the Proceedings texts? Which are missing? (I have already asked UNESCO for batch download of these.)
+* Do we have all the Proceedings texts? Which are missing? 
+  * SEE Proceedings_metadata_edited for current overview of which we have, curating status, page numbers, etc.
+  
 * How to handle English and (at least) French in same document? How big of a problem is that? 
   
  __Wish list of curating tasks__
 
 To be continued…
+
+__NOTES on curating decisions__
+
+3 Feb 2021: The Proceedings documents include a lot of text besides the minutes of the meetings of the General Conference. So these texts may in fact produce two corpora! For example: 
+* Proceedings corpus 1: The verbatim minutes of the sessions ("Plenary Meetings") of the General Conference.
+* Proceedings corpus 2: Everything else!
+  * For example: 
+    * the "summary records" of the various commissions
+    * verbatim records of various commission meetings (for example in 1947)
+    * "Reports" of these commissions submitted to the GC
+    * "Resolutions" submitted to and/or adopted by the GC
+  * This second corpus should probably include all text, _including_ Corpus 1. But it could be everything else (i.e., the total _minus_ corpus 1). 
+  
+  Either way, it seems clear that the rest of the texts in the Proceedings volumes, although not as clear as the verbatim records, are not useless! So:
+  * Begin by isolating and curating corpus 1.
+  * Along the way, determine how hard it would be to also curate the total, as Corpus 2.
+    * Perhaps this Corpus 2 could be curated at a lower level of precision, just as a bag of words (per year), without the subtle details of marked-up individual speeches, etc. 
