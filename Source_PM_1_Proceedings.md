@@ -60,3 +60,11 @@ __NOTES on curating decisions__
   * Begin by isolating and curating corpus 1.
   * Along the way, determine how hard it would be to also curate the total, as Corpus 2.
     * Perhaps this Corpus 2 could be curated at a lower level of precision, just as a bag of words (per year), without the subtle details of marked-up individual speeches, etc. 
+
+...
+__NOTES re: OCR and other technical matters__
+
+3 Feb 2021: An OCR test: I opened a PDF (of those I received from UNESCO archive, 214793_eng_0029: the first page of the 1947 Plenary Session) in Adobe acrobat pro, and ran "Recognize text" on English UK, Output: editable text and images, Downsample to: 600 dpi. Then copied and pasted the text from the document and put it in a .txt file. This produced a pretty messy text, see "Adobe OCR test...", which I have saved in INIDUN_data, in a folder called "OCR_TESTS_Proceedings".
+
+* How (specifically) did Roger produce the Proceedings .txt files that he scraped in March 2019? (Add a note on this here!)
+* Are these good enough to use as is, or do we need to do them again?
