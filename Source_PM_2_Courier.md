@@ -5,7 +5,7 @@ Testet gick ut på att jämföra outputen (txt-filerna) från de olika programme
 Nedan följer en höftad rangordning
 
 1a plats: PDFBox
-+ Bra ocr-kvalitet (kan dock inte bedöma utifrån detta test om PDFBox är bättre än Tesseract)
++Bra ocr-kvalitet (kan dock inte bedöma utifrån detta test om PDFBox är bättre än Tesseract)
 + kan t ex hantera ordföljd vid inledningar på artiklar där den första bokstaven är oproportionerligt större än resten av brödtexten ¬(detta misslyckas Tesseract nästan alltid med och blandar då ihop meningsordningen)
 – Det går inte att avläsa när ett stycke börjar och slutar. PDFBox verkar betrakta varje rad som ett textsegment. 
 
