@@ -4,31 +4,31 @@ Testet gick ut på att jämföra outputen (txt-filerna) från de olika programme
 
 Nedan följer en höftad rangordning
 
-1a plats: PDFBox
+**1a plats: PDFBox**
 * Bra: ocr-kvaliteten är bra (kan dock inte bedöma utifrån detta test om PDFBox är bättre än Tesseract)
 * Bra: kan t ex hantera ordföljd vid inledningar på artiklar där den första bokstaven är oproportionerligt större än resten av brödtexten ¬(detta misslyckas Tesseract nästan alltid med och blandar då ihop meningsordningen)
 * Dåligt: det går inte att avläsa när ett stycke börjar och slutar. PDFBox verkar betrakta varje rad som ett textsegment. 
 
-2a plats: Tesseract (men väldigt nära delad 1a plats med PDFBox)
+**2a plats: Tesseract (men väldigt nära delad 1a plats med PDFBox)**
 * Bra: ocr-kvalitet (som PDFBox)
 * Bra: markerar med ett radavstånd när ett textsegment börjar och slutar 
 * Dåligt: fångar ofta ordföljden i styckena, men inte alltid (se undantag i anteckningen om PDFBox), vilket drar ner betyget
 
-3e plats: Ms Word
+**3e plats: Ms Word**
 * Bra: identifiera ofta och kan särskilja paragrafer (ord som följs utan radbrytning, dessa avgränsas med indrag  
 * Bra: OCR-kvalitén förefaller vara sämre än PDFBox och Tesseract
 * Dåligt: blandar ibland samman meningarna från t ex bildtexter som ligger nära varandra, men också i vissa fall meningar från två spalter (då Word läser från första översta spaltraden till andra översta spaltraden osv). Detta är en allvarlig brist
 
-Sistaplats: Pdfplumber & Pdfminer – är skräp, blandar t ex ihop om ordföljder och ocr-kvalitén är delvis svajig.
+**Sistaplats: Pdfplumber & Pdfminer** – är skräp, blandar t ex ihop om ordföljder och ocr-kvalitén är delvis svajig.
 
 
-Slutsats och reflektioner:
+**Slutsats och reflektioner:**
 
 PDFBox och Tesseract presterar bäst segmenterings- och ocr-kvalitet. 
 
 I båda fallen bryter bildtexter in i artiklarnas brödtext. Detta är förmodligen något som är svårt att åtgärda utan manuellt arbete, och därför något som kommer ta väldigt lång tid att åtgärda i alla artiklar i Courier. Förslagsvis gör vi inget år detta, men med konsekvensen att ordföljden i artiklarna inte alltid är korrekta (dvs när en bildtext bryter in i brödtexten). 
 
-Möjligen kan man tänka sig ett kurreringsprocess så här:
+**Möjligen kan man tänka sig ett kurreringsprocess så här:**
 
 Steg 1
 * Kör Tesseract eller PDFBox på materialet – eller båda – och märk upp varje tidskriftsnummer med år och nummer
