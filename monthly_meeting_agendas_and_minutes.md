@@ -2,11 +2,23 @@
 
 ### Meeting, 9 March 2021 (via zoom) 
 
+_Notes_
+
+1. Fredrik updated us on on-going text analysis work with UNESCO SSIs. He is doing this in AntConc, and has already noted some trends of interest. FN and Ben will meet in two weeks to proceed on this. Goal is to bring our observations into dialogue with arguments made in the existing (legal-historical) literature on the SSIs.
+
+1. Curating _Courier_
+   * Fredrik reported on his tests of different OCR options; found that PDFBox was best here. 
+   * Roger and Andreas have already run PDFBox on Courier, divided up page by page (see in Inidun_data)
+   * Next steps are to link the pages to particular articles, link the article's uinque numbers to the metadata file, and to identify problems, for example pages on which one article ends and another starts.
+   * Goal: to have a corpus before the summer.  
+   
+1. Next meeting (just B and F), 23/3. Next meeting with all of us, 13/4.   
+
 _Agenda_
 
 1. Checking in, updates
 
-1. Quick look at Fredrik's text analysis work on UNESCO SSI's, in this [document](https://docs.google.com/document/d/143A2OjFJPlJAstZ23I1s2Y9lJD27zLV1Rc_rnYnRoIY/edit?usp=sharing)
+1. Quick look at Fredrik's text analysis work on UNESCO SSIs, in this [document](https://docs.google.com/document/d/143A2OjFJPlJAstZ23I1s2Y9lJD27zLV1Rc_rnYnRoIY/edit?usp=sharing)
 
 1. Curating _Courier_: status?
 
