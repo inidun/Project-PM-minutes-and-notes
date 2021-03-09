@@ -1,5 +1,16 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 9 March 2021 (via zoom) 
+
+_Agenda_
+
+1. Checking in, updates
+
+1. Quick look at Fredrik's text analysis work on UNESCO SSI's, in this [document](https://docs.google.com/document/d/143A2OjFJPlJAstZ23I1s2Y9lJD27zLV1Rc_rnYnRoIY/edit?usp=sharing)
+
+1. Curating _Courier_: status?
+
+
 ### Meeting, 2 February 2021 (via zoom) 
 
 _Notes_
