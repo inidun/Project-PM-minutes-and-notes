@@ -1,5 +1,19 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 30 March 2021 (via zoom) 
+
+_Agenda_
+
+1. Checking in, updates
+
+1. Questions, updates re: SSI text analysis
+
+1. Curating _Courier_: 
+   - Pagination issue: R and A report on their way to make page numbers match between metadata index and scanned files.
+   - Title coordination issue: how much of a problem is this?
+   - In courier/articles, a problem?: "Sorry, we had to truncate this directory to 1,000 files. 5,938 entries were omitted from the list."
+   
+
 ### Meeting, 9 March 2021 (via zoom) 
 
 _Notes_
@@ -12,7 +26,7 @@ _Notes_
    * Next steps are to link the pages to particular articles, link the article's uinque numbers to the metadata file, and to identify problems, for example pages on which one article ends and another starts.
    * Goal: to have a corpus before the summer.  
    
-1. Next meeting (just B and F), 23/3. Next meeting with all of us, 13/4.   
+1. Next meeting (just B and F), 23/3. Next meeting with all of us, 30/3.   
 
 _Agenda_
 
