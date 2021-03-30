@@ -2,6 +2,43 @@
 
 ### Meeting, 30 March 2021 (via zoom) 
 
+_Notes_
+
+1. Updates: there will be a new boss at Humlab
+
+1. SSI article:
+   - R and A will make the edited corpus ("nonregional") into the one used in jupyter. 
+   - B already made edits to (his, google drive version of the) SSI metadata index, adding a column for regional?=yes/no. Andreas will copy this into the official metadata index.
+   - B and F will continue working on text analysis and writing; deadline by end of VT21. 
+
+1. Curating _Courier_: 
+   - Pagination issue: R and A report on their way to make page numbers match between metadata index and text files; not done but going well. 
+   - There are 1100 pages on which more than one article appears. As it works now we would duplicate (some of) the text on these pages. So we need to check these; A. will continue working on a (partly?) machine-driven solution to this issue.
+
+   - Several whole issues are missing (we don't have any text or PDF at all). These are:
+      - 059709eng no match
+      - 124785eng no match
+      - 367693eng no match
+      - 370032eng no match
+      - 370977eng no match
+      - 372603eng no match
+      - 373788eng no match
+     F. will check these: they seem (mostly) to be modern. Are they (not) online in UNESDOC? We could ask Eng (at UNESCO archive). Or we could exclude them, since they are so recent (and outside of the project's 1945-2015 time period). 
+     
+   - One PDF couldn't be handled by PDFBox: 132107engb. We need to either remove it from the sample, or OCR it ourselves (with Tesseract or other tool); but then remember to note that this one was NOT extracted using PDFBox. 
+   
+   - The corpus is based on Courier articles, working from the metadata index which lists these; that means it does not include all of the text in the issues. What kind of content do we lose by assembling the corpus in this way ? 
+      - Editorials
+      - Welcome note
+      - Letters to editor
+    We could extract the text of the editorials as its own separate corpus, and do analysis on that. To come back to later.
+
+1. Proceedings: 
+   - B. sets end of VT21 as deadline for deciding whether or not to proceed on curating Proceedings. 
+
+End of meeting.
+
+
 _Agenda_
 
 1. Checking in, updates
@@ -10,8 +47,8 @@ _Agenda_
 
 1. Curating _Courier_: 
    - Pagination issue: R and A report on their way to make page numbers match between metadata index and scanned files.
-   - Title coordination issue: how much of a problem is this?
-   - In courier/articles, a problem?: "Sorry, we had to truncate this directory to 1,000 files. 5,938 entries were omitted from the list."
+   - Title coordination issue: how much of a problem is this? (Not much)
+   - In courier/articles, a problem?: "Sorry, we had to truncate this directory to 1,000 files. 5,938 entries were omitted from the list." (Not a problem!)
    
 
 ### Meeting, 9 March 2021 (via zoom) 
