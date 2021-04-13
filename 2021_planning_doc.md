@@ -1,5 +1,20 @@
 ## INIDUN Project Goals and Planning for 2021
 
+### Meeting Schedule Spring Term 2021
+    19/1
+    2/2
+    16/2 (just B and F)
+    9/3
+    23/3 (just B and F)
+    30/3
+    13/4 (just B and F)
+    4/5
+    18/5 (just B and F)
+    1/6
+    15/6 (just B and F)
+
+...
+
 Following up on our last meeting of 2020, this document includes:
 
 * Suggested goals for VT21
