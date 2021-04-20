@@ -1,6 +1,6 @@
 ## Minutes from INIDUN monthly meetings
 
-### Meeting, 20 April 2021 (via zoom) 
+### Meeting, 4 May 2021 (via zoom) 
 
 _Agenda_
 
