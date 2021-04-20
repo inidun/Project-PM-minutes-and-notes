@@ -1,5 +1,22 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 20 April 2021 (via zoom) 
+
+_Agenda_
+
+1. INIDUN Jupyter pages
+   - B. questions re: making it work
+     - creating a DTM
+     - POS statistics page (error messages)
+   - 
+
+1. Courier curating
+   - status
+   - next tasks? 
+
+1. 
+
+
 ### Meeting, 30 March 2021 (via zoom) 
 
 _Notes_
