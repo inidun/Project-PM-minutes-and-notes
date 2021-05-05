@@ -2,6 +2,31 @@
 
 ### Meeting, 4 May 2021 (via zoom) 
 
+_Notes_
+
+1. Courier curating
+   - status:
+     - R and A are working on recognizing breaks between articles.
+     - There may need to be some manual editing of article texts (to identify where they end); R and A will try to identify how long that might take.
+     - The former problem with missing issues is resolved.
+   - next tasks? 
+     - R and A will continue with this, trying to shorten list of overlap articles; 
+     - By next meeting: R and A identify some samples for B and F to check (comparing PDF images to the article txt files for accuracy)  
+
+1. Goals update
+   - Before midsommar:
+     - Aim to have complete, usable Courier corpus
+     - B and F aim to have complete article re: SSIs
+     - B will have taken some decision re: Proceedings 
+   - HT2021:
+     - Main curating task: _Proceedings_ (or maybe another UNESCO text source)
+     - Main analysis/writing task: analysis of _Courier_ 
+
+1. INIDUN jupyter pages
+   - R will update the INIDUN pages to match latest developments (done for Westac). 
+   - New meeting with run-through of how to use these pages on Wednesday, 12 May, 13:00.
+
+
 _Agenda_
 
 1. INIDUN Jupyter pages
@@ -13,8 +38,6 @@ _Agenda_
 1. Courier curating
    - status
    - next tasks? 
-
-1. 
 
 
 ### Meeting, 30 March 2021 (via zoom) 
