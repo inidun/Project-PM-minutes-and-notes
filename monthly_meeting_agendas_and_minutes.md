@@ -4,14 +4,15 @@
 
 _Notes_
 
+UNDER CONSTRUCTION
+
 1. SSI article: status update 
 
 1. Courier curating
-   - Status:
-   - Tasks 
+   - Status: moving forward; using PDF-Box; using font size to identify article titles, and thereby insert breaks in the text. Then, test against the article index to see if this method works well.
 
 1. Summer schedule
-   - B off midsommar until v 30 (26 July)
+   - meet again ca middle of August.
 
 
 ### Meeting, 4 May 2021 (via zoom) 
