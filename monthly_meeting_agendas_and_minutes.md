@@ -1,5 +1,19 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 1 June 2021 (via zoom) 
+
+_Notes_
+
+1. SSI article: status update 
+
+1. Courier curating
+   - Status:
+   - Tasks 
+
+1. Summer schedule
+   - B off midsommar until v 30 (26 July)
+
+
 ### Meeting, 4 May 2021 (via zoom) 
 
 _Notes_
