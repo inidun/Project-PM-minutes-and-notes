@@ -1,5 +1,16 @@
 ## INIDUN Project Goals and Planning for 2021
 
+### Meeting Schedule Fall Term 2021 (_proposed_)
+    24/8
+    7/9
+    21/9 (just B and F)
+    5/10
+    19/10 (just B and F) 
+    9/11
+    23/11 (just B and F)
+    7/12
+    21/12 (just B and F)
+
 ### Meeting Schedule Spring Term 2021
     19/1
     2/2
@@ -35,7 +46,7 @@ Following up on our last meeting of 2020, this document includes:
    * Goal: a finalized corpus, ready for machine reading: **15 December 2021**
    
 1. Participate in conference(s)
-   * Already scheduled: History of Concepts Conference, Berlin, 2-4 September 2021 (Ben)
+   * Already scheduled: History of Concepts Conference, Berlin, April 2022 (Ben)
    * Identify relevant conferences, apply
      * Idéhistoria på gång, Lund, May 2021 (?) 
      * ENIUGH Congress, Åbo, June 2021
