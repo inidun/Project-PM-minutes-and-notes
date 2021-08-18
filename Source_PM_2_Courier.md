@@ -1,4 +1,4 @@
-## Tematiska fel som identifierat i samband med identifieringen av artiklars början och slut i Courier
+## Tematiska fel som identifierat i samband med identifieringen av artiklars början och slut i Courier (augusti 2021)
 
 Så här såg min process ut:
 
