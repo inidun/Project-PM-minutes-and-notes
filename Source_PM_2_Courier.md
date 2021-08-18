@@ -71,6 +71,9 @@ Andra fel
 
 
 
+ 
+
+
 ## Översiktliga anteckningar från genomgång av segmenterings- och ocr-kvalitén för PDFBox, Tesseract, Ms Word Pdfplumber och Pdfminer (februari 2021)
 
 Testet gick ut på att jämföra outputen (txt-filerna) från de olika programmen. Ingen exakt uppräkning av fel gjordes, istället identifierades mönster för när kvalitébrister kunde uppstå.
