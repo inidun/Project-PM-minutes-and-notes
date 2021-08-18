@@ -1,3 +1,76 @@
+## Tematiska fel som identifierat i samband med identifieringen av artiklars början och slut i Courier
+
+Så här såg min process ut:
+
+* Jag tog ett slumpmässigt nummer vart femte år (totalt 14 nummer) och gick igenom samtliga artiklar som extraherats för respektive numer, totalt 140 artiklar. Jag exkluderade dock april-numret från 2003 (id: 130036) då den extraherad texten var helt oläsbar.
+* Jag jämförde endast om texten i en extraherad artikel motsvarade pdf-versionen vad gäller när en artikel börjar och slutar. (OCR-brister och oordning i extraherad text har ibland noterats men inte markerats som fel. Överlag ser detta ok ut, även om det ibland finns problem med att texten på sidor med flera kolumner kastas om.
+* **Träffsäkerheten för när artiklar börjar/slutar ligger på ca 70 %.** Jag tror det vore bra om vi kan komma upp till iaf 90 % träffsäkerhet om vi ska gör något med materialet.
+  * Om man räknade bort mindre brister (som att det bara var en bildtext eller någon enstaka textrad på slutet av en artikel som hade klippts bort) så blev det 75 % träffsäkerhet.
+  * Om man räknade bort numret från 1948 (som innehöll 14 extraherade artiklar varav 13 hade fel i hur texten hade extraherats) så hade siffran blivit 83 % träffsäkerhet. Förmodligen är träffsäkerheten låg för de första 2–4 åren pga att flera artiklar ryms på samma sida. Här finns det anledning att fundera på om det krävs någon form av manuell kurering
+
+
+**Typiska fel:**
+
+Två artiklar på samma sida där det helt saknas extraherad text från en av artikelsidorna.
+* 070144_70148_a_world_wide_watch_on_the_atmosphere
+* 062404_62420_unesco_art_pocket_books_a_new_venture_inart_publishing
+* 062404_62421_unesco_in_retrospect_and_perspective
+* 070144_70149_ceylon_s_dry_zone_pioneers_restore_prosperity_to_an_ancient_
+* 073867_73875_educational_scientific_and_cultural_reconstruction
+* 073867_73876_natural_sciences
+* 073867_73878_achievements_in_the_social_sciences
+* 073867_73879_mass_communications
+* 073867_73880_echanges_culturels_arts_lettres_philosophie
+* 073867_73881_u_s_commission_studies_unesco_in_a_divided_world_
+* 073867_73882_the_place_of_women_in_unesco_an_indian_view
+* 158378_158396_preaching_in_the_wilderness_or_banking_on_the_future_
+
+
+En artikel som börjar på en sida och fortsätter längre fram i numret, men där det bara finns extraherad text från någon av dessa sidor (eller ingen text alls)
+* 073867_73868_dr_huxley_s_suggestions_for_the_advance_of_world_civilizatio
+* 073867_73870_macarthur_accepts_unesco_programme_in_japan
+* 073867_73872_spotlight_on_arab_thought_taha_hussein_calls_unesco_common_m
+* 073867_73873_a_philosopher_looks_at_arab_literature_among_world_classics
+* 073867_73877_emphasis_on_education_clearing_house_function
+* 074880_50644_africa_in_the_stress_of_technology
+* 078234_58762_only_the_educated_are_free_
+* 078438_45102_learning_to_share_the_same_globe
+
+
+Minst två artiklar finns med på samma sida och där text från någon av artiklarna har extraherats och blandats ihop med den andra artikeln (vissa av exemplen nedan hänger ihop med varandra, eftersom det t ex kan vara fel ett i slutet av en artikel påverkar det den extraherade texten i följande artikel)
+* 073867_73871_middle_east_cultural_liaison_office_proposed
+* 074686_52496_education_training_and_society
+* 074686_52513_the_sciences_and_their_applications_to_development
+* 074686_52553_the_human_environment_and_terrestrial_and_marine_resources
+* 074686_52554_culture_and_the_future
+* 074686_52575_prejudices_intolerance_racism_apartheid
+* 077050_77046_as_american_as_apple_pie_the_art_of_the_circus_spectacular
+* 077050_77048_the_rubber_man
+* 078438_45102_learning_to_share_the_same_globe
+* 078438_45105_the_colourful_world_of_third_theatre_testing_new_forms_of_co
+* 158378_158407_strange_language_let_s_say_it_s_a_whale_
+* 192261_192324_conquering_the_job_market
+* 192261_192326_gender_equality_a_global_public_good
+* 192261_192332_mother_teresa_the_most_powerful_woman_in_the_world
+* 192261_192335_manuela_sáenz_liberator_of_the_liberator
+
+
+Andra fel
+* 074686_52516_information_systems_and_access_to_knowledge
+  * FEL: Denna artikel anges börja på sida 18 men den börjar på sida 19 (där en annan artikeln sedan börjar). Ingen text har extraherats.
+* 077050_77049_a_topsy_turvy_world + 095106_187175_books_of_the_world
+  * FEL: Detta är den sista artikeln i numret, och på an andra halvan av sidan ryms sådant som inte här till artikeln.
+* 095106_95075_culture_first_and_last_commentary
+  * FEL: Artikeln börjar i högra kanten av sidan, första halvan är text som inte har med denna artikel att göra
+* 158378_158416_the_doctor_prince
+  * FEL: Artikeln börjar mitt på sidan och algoritmen har inte lyckats identifiera denna första halvsida.
+
+
+**Därtill: Kolla issue 130036 (2003, April) vars layout inte funkade med PDFbox, och kanske andra issues som har liknande problem**
+
+
+
+
 ## Översiktliga anteckningar från genomgång av segmenterings- och ocr-kvalitén för PDFBox, Tesseract, Ms Word Pdfplumber och Pdfminer (februari 2021)
 
 Testet gick ut på att jämföra outputen (txt-filerna) från de olika programmen. Ingen exakt uppräkning av fel gjordes, istället identifierades mönster för när kvalitébrister kunde uppstå.
