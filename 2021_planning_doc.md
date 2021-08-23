@@ -1,5 +1,32 @@
 ## INIDUN Project Goals and Planning for 2021
 
+### GOALS for 2021 (revised, August 2021)
+
+1. Complete and submit one article, on text analysis of UNESCO SSIs: **1 October 2021**
+   * Create (and publish?) a jupyter page related to this article. 
+     * Question: When in the process do we make this?    
+
+1. Complete text curating of _Courier_
+   * Goal: a finalized corpus, ready for machine reading: **15 December 2021**
+   
+1. Draft one article based on analysis of _Courier_   
+   * Decide on process for identifying topic, etc.
+   * Set goal-deadline
+   
+1. Complete text curating of _Proceedings_ 
+   * Goal: a finalized corpus, ready for machine reading: **15 December 2021**
+   
+1. Participate in conference(s)
+   * Digital History in Sweden, Umeå, December 2021
+     * Apply by 15 September 
+   * Plan our own (small) event, for 2022
+     * Decide re: date and theme of event
+
+1. Sign partnership agreement with UNESCO
+   * Publicize agreement
+
+
+
 ### Meeting Schedule Fall Term 2021 (_proposed_)
     24/8
     7/9
