@@ -1,12 +1,34 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 23 August 2021 (via zoom) 
+
+_Agenda_
+
+1. General updates
+
+1. Approve 2021 meeting schedule
+
+1. Look over, approve revised [2021 goals](https://github.com/inidun/Project-PM-minutes-and-notes/blob/master/2021_planning_doc.md) 
+
+1. Review how we use kanbans; other aspects of project communication
+
+1. SSI article
+   - status
+   - When/how to create associated jupyter page, and/or published version of data?
+
+1. _Courier_ curating
+   - status, plans
+
+1. _Proceedings_ curating
+   - status, plans
+   - See [updated PM](https://github.com/inidun/Project-PM-minutes-and-notes/blob/master/Source_PM_1_Proceedings.md)
+
+
 ### Meeting, 1 June 2021 (via zoom) 
 
 _Notes_
 
-UNDER CONSTRUCTION
-
-1. SSI article: status update 
+1. SSI article: did status update 
 
 1. Courier curating
    - Status: moving forward; using PDF-Box; using font size to identify article titles, and thereby insert breaks in the text. Then, test against the article index to see if this method works well.
