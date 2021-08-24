@@ -25,6 +25,9 @@ This means that in many volumes, the main text is in both English and French, sh
 
 
 __Technical information__ 
+We have all the Proceedings texts except for one (1976). B wrote to Eng S. on 23 Aug 2021 to ask about this. 
+  * SEE Proceedings_metadata_edited (stored on Github) for current overview of which we have, curating status, page numbers, etc.
+  
 The texts of the Proceedings are available through UNESDOC from 1953 (second extraordinary session). Some of these are in PDF form. A few are presented on the UNESDOC interface in OCR’ed form. These come with a warning text (repeated on every page): “Optical Character Recognition (OCR) document. WARNING! Spelling errors might subsist. In order to accessto the original document in image form, click on "Original" button on 1st page”. [But the “original” button does not always work!]. See information on how texts appear in UNESDOC in our list (“Proceedings access overview”)
 …
 NOTES on specific volumes 
@@ -35,14 +38,26 @@ NOTES on specific volumes
 * re: 2015 Proceedings: Same as 2009 in layout and language policy.
 
 __Decisions to be made__
-* Do we have all the Proceedings texts? Which are missing? 
-  * SEE Proceedings_metadata_edited for current overview of which we have, curating status, page numbers, etc.
   
 * How to handle English and (at least) French in same document? How big of a problem is that? 
+* We should probably curate the corpus in a particular way based on the methods we want to use, with focus on its bilingual character. 
+  * Note: there is a literature (and relevant models) related to multilingual corpus analysis.  
+    - See for example discussion of multilingual corpora in [Corpus Based Language Studies, 2006](https://books.google.se/books?id=h4jvexlSum8C&pg=PA47&dq=multilingual+corpus&hl=en&sa=X&ved=2ahUKEwjc-4mKocfyAhXMQvEDHYQ5C9IQ6AEwAXoECAkQAg#v=onepage&q=multilingual%20corpus&f=false). See also [this article](https://eprints.lancs.ac.uk/id/eprint/59/1/corpora_and_translation.pdf). But this literature, by linguists interested in translation studies, seems NOT to address anything like what we have here. 
+    -  Note the Aarhus Corpus of Contract Law: this is a so-called "parallel corpus" of contract law from three languages. This is what McEnery and Hardle call a "comparabe corpus": "pairs of groups of monolingual corpora designed using the same sampling frame" [(Corpus Linguistics, p. 19)](https://books.google.se/books?id=3j3Wn_ZT1qwC&pg=PA19&lpg=PA19&dq=aarhus+corpus+contract+law&source=bl&ots=UHqEYbqV-u&sig=ACfU3U256Gg6hEYNa-oG70Sy2A0OX7_VTA&hl=en&sa=X&ved=2ahUKEwiOx5GJqcnyAhWHSfEDHYXFBjsQ6AF6BAgOEAM#v=onepage&q=aarhus%20corpus%20contract%20law&f=false).
+    - Is something like this relevant to us? Ryan McDonald et al., ["Universal Dependency Annotation for Multilingual Parsing", 2013](https://aclanthology.org/P13-2017.pdf)
+    
+  * Who has used digital text analysis on multilingual corpora for humanistic research?
+    * Andrew Piper, _Enumerations_ (2018), used a corpus of novels from three languages.       
+      * He cites: J. Boyd-Graber and David Blei, ["Multilingual Topic Models for Unaligned Text" (2012)](https://arxiv.org/abs/1205.2657)
+    *  
   
  __Wish list of curating tasks__
 
-To be continued…
+* TAGGING the texts
+  * Goal: to mark up the "Verbatim Records" texts so that:
+    - Divided up into units matching each speech/intervention 
+    - Mark each unit by: speaker, nationality (or organization), gender!
+
 
 __NOTES on curating decisions__
 
@@ -74,3 +89,11 @@ __NOTES re: OCR and other technical matters__
 
 * Are these text files good enough to use as is, or do we need to do them again? 
   * If not: Can we get access to the original PDFs so that we can do the OCR ourselves?
+
+24 Aug 2021: Quality control of the _Proceedings_ .txt files created in 2019:
+
+  * 114592eng.txt (GC 1953): Very poor. The text was in columns which have been misread here.
+  * 114049mulo.txt (GC 1973): Not so bad. Text is spread across the page in confusing way, but word order is correct and most spelling (in English and French) seems to be OK.
+  * 057619mulo.txt (GC 1983): Better. Word order is correct and spelling (in English and French) looks good. But many words are pressed together ("I havethehonour andtheprivilege") and hypenated words are split. 
+  * 084822mulo.txt (GC 1989): Messy spread of words across the page, but word order is correct and most spelling (in English and French) seems to be OK.
+  * 247901mul.txt (GC 2015): Excellent. Can use as is, I think.
