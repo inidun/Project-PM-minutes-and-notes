@@ -20,7 +20,9 @@ _Agenda_
    - status, plans
 
 1. _Proceedings_ curating
-   - status, plans
+   - status
+   - How to save updates to metadata file?
+   - Make plan of next steps 
    - See [updated PM](https://github.com/inidun/Project-PM-minutes-and-notes/blob/master/Source_PM_1_Proceedings.md)
 
 
