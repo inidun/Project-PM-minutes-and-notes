@@ -2,6 +2,45 @@
 
 ### Meeting, 23 August 2021 (via zoom) 
 
+_Notes_
+
+1. No big changes in people’s schedule
+
+1. Re: SSI work: 
+   * B and F will keep working on article.
+   * Re: a jupyter page for the SSI article:
+	  - Next step: B and F decide on the narrative of the jupyter page  
+	  - Then: put up everything we use in the article (data, etc) on GitHub
+	* So, basically, we should just finish the article. Then, when it’s at a good draft stage, we design the jupyter page. Once that’s in place, B and F contact R and A
+
+1. Courier 
+   * Curating is going well; should be ready before 15 Dec.
+   * 	Status: the OCR text extraction, via PDF Box, has been v good, but not perfect. Sometimes the word order is a mess because the columns got pushed around. But that may not be such a huge problem for certain kinds of analysis. This is an issue that the developers at PDF box and Tesseract and other such places are best on, so R does not really want to get into this too deeply. But we can make small changes, since PDF Box is open source. But in any case, topic modeling is not affected by word-order problems.
+	* F suggests two parallel processes: 
+	   1. Start working already now with word trends, cooccurrence, NER. (Use the existing jupyter pages for this.)
+	   1. F and B begin already now thinking about an article (or two) based on this material. We could divide up the material by issue (or maybe page); while we’re waiting for Andreas to improve the division of the total corpus into articles.
+	* Next step: R and A will make it possible to select and work with the Courier corpus in the same pages where we’ve been working with the SSI corpus.
+
+1. Proceedings
+   * B presented state of affairs with curating Proceedings.
+   * Next tasks: 
+      - Task group A:
+        -	Rename the PDFs that Eng sent me, put them in the main file
+        -	Create one or more new txt files from selected Proceedings issues (starting from the first ones), using Adobe's OCR function. 
+        -	Send the resulting text to Andreas; he will compare its accuracy with what he gets from doing the same thing in Tesseract.
+
+     - Task group B
+      -	I should do a test, timed, of how long it takes to clean up and mark up a volume. With these tasks:
+         - Go through each vol and see what the rules are for marking a new speaker.
+         - Find out: do all volumes use numbers, like 3.1 (and (3.1) for translations) to mark new speakers?
+         - Tag each new speaker with (underscore)"start" and (underscore)"end". 
+         - Leave all text and mess in place 
+
+1. Outreach
+   * We should blog and tweet! Ben agrees to try...
+
+End of meeting
+
 _Agenda_
 
 1. General updates
