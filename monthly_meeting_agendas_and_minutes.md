@@ -14,7 +14,11 @@ _Agenda_
 
 1. Courier
    * Look together at topic modeling jupyter page
-   * Should F and B make edits in the google docs versions of the files, or in excel?
+   * Look together at topic modeling results (google drive)
+     * What's going on in 50 topics, t 6?
+     * How can we use these to see change over time? ("Dynamic tm"...?) 
+     * Can we do TM to the texts in time blocs? Or identify topics in the whole, and then measure their relative frequency over time?
+     * Should F and B make edits in the google docs versions of the files, or in excel?
    * Curating tasks: update and plans
 
 1. Proceedings
