@@ -3,6 +3,33 @@
 ### Meeting, 12 October 2021 (via zoom) 
 
 _Notes_
+1. SSIs
+   * Time to design a jupyter page related to the SSI article? 
+     - B and F will decide about this; but in any case the page need not be ready before article is about to be published.
+   * B's specific questions for FN: (for next meeting)
+     - How much of the grown of AND can be tied specifically to the word cultural? (p. 16)
+     - How did average length (token count) of SSIs change over time?  
+
+1. Courier
+   * Looked together at topic modeling jupyter page
+   * Look together at topic modeling results (google drive)
+     * What's going on in 50 topics, t 6? (Probably a few issues with poor OCR)
+     * B asks: How can we use these to see change over time? Can we do TM to the texts in time blocs? Or identify topics in the whole, and then measure their relative frequency over time? Answer: Best to isolate a topic, then measure the frequency of its appearance over time; there is already a tool for this on the jupyter page!
+     * F and B will make edits (above all, labeling the various topics) in the google docs versions of the files.
+   * Curating tasks: update and plans: R and A will go back to the problem of isolating issues after fixing a few more TM-related tasks.
+
+1. Proceedings
+   * B wants to scan in 700 pages of text (1976 Proceedings): do we do that KB lab, specially? Or just put in the order at KB as usual?
+     - B will wait with this: start by asking UNESCO (again) if they have done this, or are going to do this. If necessary, start by asking a contact at KB Lab, rather than just giving this to the library's normal copy service.  
+   * What ARE we going to do about the two-language issue? What is the next step in deciding how to handle this?
+     - A big issue, to return to later!
+
+1. NEXT MEETING, 19 Oct (just B and F)
+   * Go over comments we've gotten on the SSI article; make plan for cutting it in length and finishing and submitting it!
+   * Discuss _Courier_ work plan: 
+     - what are the historical/analytical questions we want to ask of this material?
+     - division of labor?
+     
 
 _Agenda_
 
