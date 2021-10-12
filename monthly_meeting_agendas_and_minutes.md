@@ -1,5 +1,27 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 12 October 2021 (via zoom) 
+
+_Notes_
+
+_Agenda_
+
+1. SSIs
+   * Time to design a jupyter page related to the SSI article?
+   * B's specific questions for FN: 
+     - How much of the grown of AND can be tied specifically to the word cultural? (p. 16)
+     - How did average length (token count) of SSIs change over time?  
+
+1. Courier
+   * Look together at topic modeling jupyter page
+   * Should F and B make edits in the google docs versions of the files, or in excel?
+   * Curating tasks: update and plans
+
+1. Proceedings
+   * B wants to scan in 700 pages of text (1976 Proceedings): do we do that KB lab, specially? Or just put in the order at KB as usual?
+   * What ARE we going to do about the two-language issue? What is the next step in deciding how to handle this?
+     
+
 ### Meeting, 23 August 2021 (via zoom) 
 
 _Notes_
