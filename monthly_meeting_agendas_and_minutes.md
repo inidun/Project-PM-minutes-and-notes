@@ -1,5 +1,29 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 19 October 2021, just Ben and Fredrik (via zoom) 
+
+_Agenda_
+
+1. SSI paper
+   * Go over critique from recent seminars
+   * B's questions for FN:
+     - How much of the grown of AND can be tied specifically to the word cultural? (p. 16)
+     - How did average length (token count) of SSIs change over time?  
+     - Problem with hyphens in the way the algorithm identifies words: 
+       - co-operation appears as "co-"
+       - The network visualizations show several single letters
+     - Idea: a graph showing relative frequency of selected bigrams across the whole period (see Per W's comment) 
+
+1. SSI paper: Plan going forward
+   * B. will: 
+     - read/review lit on global/international history of culture concept
+     - read/review lit re: debate on "culture" at UNESCO
+     - develop sharper questions
+     - draft new intro (by 2/11)
+   * F. will: 
+     - Improve text tool (hyphen problem, etc)
+     - Leave this for now and move on to _Courier_...?  
+
 ### Meeting, 12 October 2021 (via zoom) 
 
 _Notes_
