@@ -1,5 +1,32 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 2 November 2021, just Ben and Fredrik (via zoom) 
+
+_Agenda_
+
+1. SSI paper
+   * Discuss B's new draft idea
+   * B's questions for FN:
+    - OBS: bigram frequency numbers in figures 5-13 do not match those in table 1.
+     - Table 1: things that appear only once; should we even count these? 
+     
+   * Questions re: new approaches 
+     - the notion of popular participation in culture and talk of the state and "policy" seem to have been linked (in 1976 Rec on Participation, for example) CHECK: Can we confirm that link statistically?
+     - There seems to be a line of development, where a few key ideas were expressed in the 1970s that then emerge in the 2001 Diversity Declaration, and in the 2005 Diversity Convention. Can we measure and maybe visualize this: show that you can really see the terms, or a particular semantic field, moving along and re-appearing in those two instruments, but _not_ in other UNESCO SSIs?
+     -   
+   * Working with the noun 'culture' in the SSI corpus
+     - Create list of adjectives that modify culture
+     - I did this in antconc, but how can we sort by date? 
+
+   * Other ideas:
+     - Compare language of recommendations/declarations as a group to that of the conventions. (Do certain ideas make it through the majority, but not up to 2/3 level?)
+
+   * Working with Jupyter:
+     - Walk through (again) how to get this going (Compute DTM, etc)
+     - If I find errors in the texts, where should I fix them (so that it's fixed once and for all)?
+
+   * Practical question: When exactly does DHiS end?
+
 ### Meeting, 19 October 2021, just Ben and Fredrik (via zoom) 
 
 _Agenda_
