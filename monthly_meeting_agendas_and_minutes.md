@@ -6,8 +6,10 @@ _Agenda_
 
 1. SSI paper
    * Discuss B's new draft idea
+     - Possible versions:
+       - 
    * B's questions for FN:
-    - OBS: bigram frequency numbers in figures 5-13 do not match those in table 1.
+     - OBS: bigram frequency numbers in figures 5-13 do not match those in table 1.
      - Table 1: things that appear only once; should we even count these? 
      
    * Questions re: new approaches 
