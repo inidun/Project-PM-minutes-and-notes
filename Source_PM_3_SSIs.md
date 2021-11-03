@@ -30,4 +30,15 @@ The SSI texts we have downloaded do not include the title at the top of the file
 _(2 October 2020)_
 Ben completed manual quality control, and some spelling corrections, of all SSIs. Corrections made in the "dates first" version.
 
+_(3 November 2021)_
+Discovered an SSI that was not included in our list: the 1976 Recommendation on the Development of Adult Education (13096). On UNESCO's SSI webpages this is listed on the page "Theme: Education", but not on the main list! 
+- Ben created new txt file, added it to INIDUN Drive, folder "legal_instrument_corpus (dates first)".
+- Ben added this SSI to metadata, "legal_instrument_index Ben copy".
+
+Checking for others we missed, I find another one: 
+1978 International Charter of Physical Education and Sport. The original number of this one was 13150; but that number is taken by the revised recommendation of 2015 ("International Charter of Physical Education, Physical Activity and Sport"). There are interesting differences between this one and the current one! And OBS, this was amended in 2001, adding one paragraph (a new article 7: "Protection of  the  ethical  and  moral  values  of  physical  education  and
+sport must be a constant concern for all") but otherwise leaving the text unchanged. See the 2001 version [here](https://en.unesco.org/sites/default/files/sport_e.pdf). UNESCO's collection, _Standard-Setting in UNESCO_ (2007), does not include the 2001 revision as a new, separate recommendation; so we won't either. But be aware of such modifications in other cases, too! For now:
+- Ben created new txt file (called "13150_1978"), added it to INIDUN Drive, folder "legal_instrument_corpus (dates first)".
+- Ben added this SSI to metadata, "legal_instrument_index Ben copy".
+
 
