@@ -1,3 +1,9 @@
+## Courier metadata: frågor och felaktigheter (november 2021)
+
+Katalogisering i metadatat innehåller vissa fel:
+- 73516	"Culture lives through exchange, not by forced loans" by Georges Fradier is listed (in column H) as "document type: issue", but it is in fact an article.
+- 73864	"Ruth Benedict's last message on... cultural continuity in civilized world" is listed as being in 1948, issue 9. But it is not there. Same title is listed as being in 2018. So is this a duplicate-error in database?
+
 ## Tematiska fel som identifierat i samband med identifieringen av artiklars början och slut i Courier (augusti 2021)
 
 Så här såg min process ut:
