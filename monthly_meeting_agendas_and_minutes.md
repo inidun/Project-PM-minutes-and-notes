@@ -9,17 +9,17 @@ _Agenda_
    * curating status
    * Working with topic models: update, questions?
    * B questions re: TM jupyter page: 
-     * Does it always generate a new topic model? How do you see/download the current one?
-     * In Find topics by token: What "topic weight" is significant? (Default threshold is 0.20)
-     * What is best way to identify changes in topic weights before and after a particular date?
-     * What does it mean, really, if we find a particular topic spiking at a particular time?
-     * How to read heatmap results? (Many of the dark green squares are garbage topics.)
+     * Does it always generate a new topic model? How do you see/download the current one? [No; they are stable.]
+     * In Find topics by token: What "topic weight" is significant? (Default threshold is 0.20) [This means that topic accounts for roughly 20% of page content.]
+     * What is best way to identify changes in topic weights before and after a particular date? [We have no one tool for this; but we can check the Topic Trends over Time for selected important topics, for example.]
+     * What does it mean, really, if we find a particular topic spiking at a particular time? [Shows that the words in that topic appear with greater proportial frequency in pages from that year.]
+     * How to read heatmap results? [Many of the dark green squares are garbage topics. But not all; look at this again, more carefully.]
    * Courier conference paper (DHiS 2021): Draft introduction is now up in [INIDUN drive](https://docs.google.com/document/d/1NU_RjrV84_yR-0wGJI1P4s-6spZlOrDiCJhvrzfUybE/edit).
 
 1. SSI paper
    * Status
    * Some ideas: 
-     * How to identify/measure a word's use as a category of practice:
+     * How to identify/measure a word's use as a category of practice? Some thoughts: 
      * identify the verbs that are linked to 'culture' and 'cultural'?
      * identify what things (categories of people, objects, practices) are gathered most frequently under the headings culture and cultural. 
      * Make a ranked list of these things, and see how that list changed over time. 
