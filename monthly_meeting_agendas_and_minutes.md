@@ -1,5 +1,38 @@
 ## Minutes from INIDUN monthly meetings
 
+
+### Meeting, 9 November 2021 (via zoom) 
+
+_Agenda_
+
+1. Courier 
+   * curating status
+   * Working with topic models: update, questions?
+   * B questions re: TM jupyter page: 
+     * Does it always generate a new topic model? How do you see/download the current one?
+     * In Find topics by token: What "topic weight" is significant? (Default threshold is 0.20)
+     * What is best way to identify changes in topic weights before and after a particular date?
+     * What does it mean, really, if we find a particular topic spiking at a particular time?
+     * How to read heatmap results? (Many of the dark green squares are garbage topics.)
+   * Courier conference paper (DHiS 2021): Draft introduction is now up in [INIDUN drive](https://docs.google.com/document/d/1NU_RjrV84_yR-0wGJI1P4s-6spZlOrDiCJhvrzfUybE/edit).
+
+1. SSI paper
+   * Status
+   * Some ideas: 
+     * How to identify/measure a word's use as a category of practice:
+     * identify the verbs that are linked to 'culture' and 'cultural'?
+     * identify what things (categories of people, objects, practices) are gathered most frequently under the headings culture and cultural. 
+     * Make a ranked list of these things, and see how that list changed over time. 
+     * (How to do these things?)
+   * Go through how to use jupyter page (one more time!) (Or maybe later)
+     * Is Ben's INIDUN page up to date?
+     * Start with "compute DTM"...  
+
+1. Coming meetings:
+   * Move 7 Dec meeting to Wednesday 8 Dec (in Umeå) - possible?
+
+
+
 ### Meeting, 2 November 2021, just Ben and Fredrik (via zoom) 
 
 _Agenda_
