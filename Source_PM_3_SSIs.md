@@ -46,4 +46,8 @@ sport must be a constant concern for all") but otherwise leaving the text unchan
 Removing one from our corpus? 
 The Convention on Wetlands (Ramsar, 1971) is not included in UNESCO's own book _Standard-Setting in UNESCO_ (2007). It was, after not adopted by the General Conference, but at a special one-time international conference; UNESCO was the "depositary" for this convention, but it's not really a UNESCO SSI. On the other hand, it _is_ included in the list of Conventions on UNESCO's SSI website; and both that list and the 2007 book include other conventions adopted at special conferences, like the 1954 Protection of Cultural Property Convention (signed at the Hague) and the 1961 Phonogram Convention (signed at Rome). So for now we can leave it in the corpus. 
 
+_(12 November 2021)_
+Some SSIs have an annex, with quotations of relevant passages from other earlier international legal instruments. Note for example the 1980 Recommendation on the status of the artist (13138). Several other SSIs have an annex or appendix in which they define terms or list relevant existing instruments. But no other SSI seems to include an annex or appendix with long quotations from earlier instruments. You could argue that it seems reasonable to remove that part of the text from the corpus, since the presence of these phrases in the later document just throws off our results. On the other hand, they did in fact choose to repeat that language in this document, and that's part of what it did as an SSI. So, am leaving the 1980 document alone for now, but at least we have to be aware of it!   
+
+
 
