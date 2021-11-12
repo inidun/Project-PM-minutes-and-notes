@@ -41,7 +41,7 @@ sport must be a constant concern for all") but otherwise leaving the text unchan
 - Ben created new txt file (called "13150_1978"), added it to INIDUN Drive, folder "legal_instrument_corpus (dates first)".
 - Ben added this SSI to metadata, "legal_instrument_index Ben copy".
 
-- (12 November 2021) Ben added both 13096 and 13150_1978 to INIDUN drive folder "legal_instrument_corpus_nonregional" 
+- (12 November 2021) Ben added both 13096 and 13150_1978 to INIDUN drive folder "legal_instrument_corpus_nonregional" AND to the INIDUN (master) collection "legal_instrument_corpus".
 
 Removing one from our corpus? 
 The Convention on Wetlands (Ramsar, 1971) is not included in UNESCO's own book _Standard-Setting in UNESCO_ (2007). It was, after not adopted by the General Conference, but at a special one-time international conference; UNESCO was the "depositary" for this convention, but it's not really a UNESCO SSI. On the other hand, it _is_ included in the list of Conventions on UNESCO's SSI website; and both that list and the 2007 book include other conventions adopted at special conferences, like the 1954 Protection of Cultural Property Convention (signed at the Hague) and the 1961 Phonogram Convention (signed at Rome). So for now we can leave it in the corpus. 
