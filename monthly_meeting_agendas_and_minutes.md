@@ -1,5 +1,22 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 1 February 2022 (via zoom)
+
+_Agenda_
+
+1. Updates
+
+1. Discuss and agree on [2022 goals](https://github.com/inidun/Project-PM-minutes-and-notes/blob/master/2022_planning_doc.md)
+
+1. Discuss pitch to UNESCO re: "The Curated Courier"
+   - Look over [draft presentation](https://docs.google.com/presentation/d/1mw-xmL3j9dHxd29EnIkKJvewCiyJnqoHzhybvtMA94A/edit?usp=sharing)
+   - Discuss the actual project idea: what can/should we promise? What's our ideal outcome?
+   - Re: presentation, decide on timeframe, division of labor.
+ 
+1. _Courier_
+   * Status update
+   * Make concrete plan to hire amanuensis for manual curating!
+
 
 ### Meeting, 9 November 2021 (via zoom) 
 
