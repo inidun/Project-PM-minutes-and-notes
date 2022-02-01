@@ -17,6 +17,18 @@ _Agenda_
    * Status update
    * Make concrete plan to hire amanuensis for manual curating!
 
+_Notes_
+
+1. Discussed idea of collaborating with UNESCO on "The Curated Courier", all seem positive.
+   The general plan is to proceed with our own curating and research, while we wait to see how UNESCO responds to our proposal.   
+
+1. 2022 goals approved.
+
+1. Next steps: 
+     - B will finish draft "Curated Courier" presentation; share with others for feedback; then send to UNESCO archive.
+     - B will hire amanuensis to assist with manual curating of Courier.
+     - B and F will take first steps toward convening a workshop on Courier, November 2022 
+   
 
 ### Meeting, 9 November 2021 (via zoom) 
 
