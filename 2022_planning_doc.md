@@ -27,14 +27,14 @@ GOALS for 2022
    - A workshop on Courier: "Toward a Global History of a Global Publication: The UNESCO Courier as Topic and Resource"
    - For Fall 2022? 
 
-**Meeting Schedule Fall Term 2021 (proposed)**
+**Meeting Schedule Fall Term 2021**
 Tuesdays, 13:15 to 15:00 (unless otherwise noted), via zoom
 
 1/2 _OBS, kl 15:00 till senast 16:30_
 
 1/3
 
-22/3 (bara B och F)
+24/3, kl 15:15 (bara B och F)
 
 5/4
 
