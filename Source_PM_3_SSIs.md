@@ -59,3 +59,6 @@ Note: these two DO already appear in the master legal_instrument_index in our IN
 Now: we need to add these two to the metadata file that jupyter is using to create the nonreg SSI corpus. AND we need to rename 13150_1978 to 90000, I think, so that the system can find this file.
 
 So, can I just go ahead and delete the existing metadata files in INIDUN/text_analytics/data and replace them with the updated ones? (Asked on 25/2 2022)
+Update: these files were correctly included in the metadata files uploaded for use in jupyter. The problem was rather that 13150_1978 needed to be renamed to 90000 for it match the way it was listed in the metadata file. So I did this, and created new zipfiles, and installed them in text_analytics/data.
+
+Did this, and created a new DTM (called SSI_NONREG_ALLPOS_NOLEMMA3_FEB2022), and it still does not give numbers that match what I found in VSC or Antconc. Sigh. 
