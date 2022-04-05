@@ -12,17 +12,19 @@ _Notes_
    * B showed draft text of position advertisement; will proceed with this via UU official "lediga jobb" system.
   
 1. Re: SSI work in jupyter 
-   * Status now is up and good, but
-   * R and A will doulbe-check that the word counts in jupyter match those in VSC. B will run a similar test.
+   * Status now is up and good, but:
+   * R and A will doulbe-check that the wordcounts in jupyter match those in VSC. B will run a similar test.
 
 1. Re: Courier
-   * R and A have prepared instructions (for an assistant) for manually curating Courier.
-   * [NOTES still IN PROGRESS]
-   * Working with student assistant at Umeå?
-   * Courier TM article: 
-   	- update
-   	- next steps
-
+   * R and A have prepared [instructions](https://github.com/inidun/tagged_courier) (for an assistant) for manually curating Courier.
+     * Focus at this stage is ONLY on correctly marking the start of each article (segmentering). 
+     * Editing the texts themselves (correcting spelling, etc) can be done later, if at all.
+     * Some texts will be OCR'ed again: R and A decide which ones.
+     * The technical difficulties of curating the first years (1948 through 1951) are so great that we might just limit the corpus to the years in which Courier had a magazine format, that is from 1952 to 2011. We will in any case start the manual "segmentering" work with the 1952 issues. Later B and/or F can evaluate how important it is to include 1948 to 1951, and how long it would take to tag the articles in those issues.  
+     * We will use a new label to mark when UNESCO's own editorial texts start (since these are not listed as articles in the Courier metadata. Probably something like #starteditorial. Other material that is neither an editorial nor an article can be tagged with #nonarticle_text or maybe #ignore 
+   * A and F will meet with Marita at Humlab on 6/4 to do a test of the instructions and invite her feedback.
+   
+   
 _Agenda_
 
 1. Updates?
