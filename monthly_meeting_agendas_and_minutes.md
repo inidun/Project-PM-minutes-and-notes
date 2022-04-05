@@ -2,6 +2,27 @@
 
 ### Meeting, 5 April 2022 (via zoom)
 
+_Notes_
+
+1. Updates?
+   * Fredriks RJ infrastructure application made it to second round, so he will need to prioritize that for a while.
+    
+1. Hiring a student assistent
+   * forskningsassistent, not amanuens!
+   * B showed draft text of position advertisement; will proceed with this via UU official "lediga jobb" system.
+  
+1. Re: SSI work in jupyter 
+   * Status now is up and good, but
+   * R and A will doulbe-check that the word counts in jupyter match those in VSC. B will run a similar test.
+
+1. Re: Courier
+   * R and A have prepared instructions (for an assistant) for manually curating Courier.
+   * [NOTES still IN PROGRESS]
+   * Working with student assistant at Umeå?
+   * Courier TM article: 
+   	- update
+   	- next steps
+
 _Agenda_
 
 1. Updates?
