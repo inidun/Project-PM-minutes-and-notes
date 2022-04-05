@@ -1,5 +1,36 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 5 April 2022 (via zoom)
+
+_Agenda_
+
+1. Updates?
+
+1. Hiring a student assistent
+   * forskningsassistent, not amanuens!
+   * Draft text of position advertisement: comments?
+  
+1. Re: SSI work in jupyter 
+   * status now?
+
+1. Re: Courier
+   * curating status?
+   * Working with student assistant at Umeå?
+   * Courier TM article: 
+   	- update
+   	- next steps
+
+
+### Meeting, 1 March 2022 (via zoom)
+
+_Notes_
+
+1. Discussed problems with SSIs in jupyter
+
+1. Discussed idea of hiring a student assistent (amanuens)
+   * R and A will prepare instructions for student's work
+   * B and F will try to follow these instructions on one or more documents, as test.
+
 ### Meeting, 1 February 2022 (via zoom)
 
 _Agenda_
