@@ -1,5 +1,33 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 30 August 2022 (via zoom)
+
+_Agenda_
+
+1. Updates
+   * Hiring a student assistent (again) is on track
+
+1. Status of Courier work
+
+1. Status of Proceedings work
+
+1. Status of writing tasks
+   * SSI article
+   * (first) Courier article 
+
+1. Set goals for HT22 
+   * With Courier
+   * With Proceedings
+   * Publications
+   * Conference presentation(s)
+   * Hosting an event?
+   * Preparing RJ infrastructure application
+
+1. Prioritize among these goals, set in time-line
+
+
+
+
 ### Meeting, 5 April 2022 (via zoom)
 
 _Notes_
