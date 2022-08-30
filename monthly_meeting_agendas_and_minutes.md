@@ -6,6 +6,7 @@ _Agenda_
 
 1. Updates
    * Hiring a student assistent (again) is on track
+   * New work levels (percentages): hur ser det ut? 
 
 1. Status of Courier work
 
