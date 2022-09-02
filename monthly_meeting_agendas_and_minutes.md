@@ -27,15 +27,15 @@ _Notes_
 
 1. New meeting day is Wednesdays, 13:15 until (at latest) 15:00, according to attached schedule:
 
-MEETING SCHEDULE HT2022
-14/9  (just B and F)
-28/9
-12/10 (just B and F)
-19/10
-1/11  OBS tidsdag, OBS i Umeå (kan alla vara på plats då?)
-8/11  OBS tidsag, kl 15 (just B and F)
-30/11
-14/12
+1. MEETING SCHEDULE HT2022
+   * 14/9  (just B and F)
+   * 28/9
+   * 12/10 (just B and F)
+   * 19/10
+   * 1/11  OBS tidsdag, OBS i Umeå (kan alla vara på plats då?)
+   * 8/11  OBS tidsag, kl 15 (just B and F)
+   * 30/11
+   * 14/12
 
 
 
