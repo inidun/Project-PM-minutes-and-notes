@@ -2,6 +2,43 @@
 
 ### Meeting, 30 August 2022 (via zoom)
 
+_Notes_
+
+1. Updates
+   * Ben: Hiring a student assistent (again) is on track. Much work recently on reading about UNESCO's history; aim to soon complete new draft of SSI article. 
+   * Fredrik: at work on new article on concept of information in Courier, focusing on topic modeling. 
+   * New work levels (percentages): hur ser det ut? 
+
+1. Status of Courier work
+   * Once assistant is hired we can move quickly to get a complete corpus that links up to the database of article titles.
+   * Fredrik asks Roger and Andreas to figure out how to see how a particular word changes its relative position over time _within_ a given topic. Westac group is working on something similar, so the same tool could serve both projects.
+   *   
+
+1. Status of Proceedings work
+   * Basic preparation of text corpus (OCR work, etc) is moving forward. Coming tasks:
+     * Draft instructions for research assistant who will do tagging and quality control of Proceedings
+     * Have usable corpus for at least preliminary reserach by the end of 2022. 
+
+1. Set goals for HT22 
+   * Submit SSI article and Courier article for publication by end of year.
+   * Conference presentation(s): Ben will submit a proposal re: the project to DHiS Lund (November 2022). Fredrik will present other work there, but nothing from this project. Focus instead on DHNB 2023 (online in March 2023). Ben will present on the project at AHA Conference in Philadelphia, January 2023.  
+   * Hosting an event: we discussed idea of a smaller workshop, on international/global and/or digital conceptual history, to take place in Spring 2023. Next step: Ben will discuss possible ideas with Jani Marjanen, among others.
+   * Preparing RJ infrastructure application: we should do this, and begin preparing a rough draft by no later than October.
+
+1. New meeting day is Wednesdays, 13:15 until (at latest) 15:00, according to attached schedule:
+
+MEETING SCHEDULE HT2022
+14/9  (just B and F)
+28/9
+12/10 (just B and F)
+19/10
+1/11  OBS tidsdag, OBS i Umeå (kan alla vara på plats då?)
+8/11  OBS tidsag, kl 15 (just B and F)
+30/11
+14/12
+
+
+
 _Agenda_
 
 1. Updates
