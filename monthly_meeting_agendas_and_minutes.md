@@ -28,14 +28,17 @@ _Notes_
 1. New meeting day is Wednesdays, 13:15 until (at latest) 15:00, according to attached schedule:
 
 1. MEETING SCHEDULE HT2022
-   * 14/9  (just B and F)
+   * 14/9  (just B and F), OBS kl 11:00
    * 28/9
    * 12/10 (just B and F)
    * 19/10
-   * 1/11  OBS tidsdag, OBS i Umeå (kan alla vara på plats då?)
-   * 8/11  OBS tidsag, kl 15 (just B and F)
+   * INIDUN-dagarna i Umeå: 
+     - tisdag 1/11, kl 9-12 
+     - eventuellt ett em-pass med Ben, Roger och Andreas
+     - onsdag 2/11, kl 10-12.
+   * 8/11  OBS tidsag, kl 13:15 (just B and F)
    * 30/11
-   * 14/12
+   * 13/12, OBS tisdag, kl 15:00
 
 
 
