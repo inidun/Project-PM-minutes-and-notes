@@ -1,5 +1,36 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 28 September 2022 (via zoom)
+
+_Notes_
+
+1. Courier: curating issues
+   * Oriane notes that mid-1970s Courier sometimes includes a supplemental bulletin called "News from UNESCO"; how to tag this? We decided that these should be tagged with a new category, "unindexed supplement". Short, untitled mini-statements from the editors (for example, presenting the topic of a special issue) should be tagged as "editorials".
+   
+1. Courier: next steps 
+   * R and A will create and run a "compiler" algorithm that will pull together the pieces of an article text (spread across multiple pages) into one article text, that corresponds to a title and number from the metadata index. 
+   * R and A will create jupyter pages (modeled on ones from Westac) as our interface with these Courier articles, with links to (a) the PDFs and (b) the relevant txt files.
+   * Once Oriane is done with Courier tagging, we will conduct a quality control process by running tests on the articles (are they complete, do they match the index, etc?) via the jupyter page(s). 
+
+1. Courier: Metadata improvement
+   * At next meeting (1 Nov), we will:
+     * decide which is the master file for Courier metadata
+     * create a workflow for updating, cleaning, correcting, and adding to this file
+     * decide if we want to add new columns to the metadata (e.g., author gender, nationality, UNESCO official or not, etc).
+
+1. Proceedings: identifying patterns
+   * Roger, with help from Marita and Andreas, will conduct a systematic identification of the textual patterns in Proceedings that mark when a new speaker begins speaking, or when a section of text is a translation of the text immediately above, and so on. 
+   * They will present the results of this at our next meeting (1 Nov, or maybe even 19 Oct?) 
+   * Ben and Fredrik will also review Proceedings by then, and prepare relevant questions and desiderata.
+   
+3. Proceedings: OCR quality control
+   * Ben and Fredrik will conduct systematic review of the quality of OCR in all our Proceedings documents. Results of this are recorded in [this spreadsheet](https://docs.google.com/spreadsheets/d/1fCYz5jZDkf_y36fv8bjaXdrTyR5WT9wlaFnV2i2pBQ4/edit?usp=sharing)
+   * Where possible, they will use the files listed in this [Index of Proceedings PDFs](https://demo.humlab.umu.se/inidun/proceedings/reocr/) (each of these has OCR text embedded in the PDF). 
+   * Where there is no file in that index, they will use the [2019 Scrape files](https://drive.google.com/drive/folders/1YoeRe21aCgFmThDwkJJ9Ni38iJGIpbRp) (now on google drive). To know what file number corresponds to which year, consult ["Proceedings Metadata Edited"](https://docs.google.com/spreadsheets/d/1z_QzDF2cYwaxP5ZdJ9t5h612g3nNRDZI/edit#gid=1893730714)
+   * Ben and Fredrik will present results at next meeting (1 Nov)
+   
+
+
 ### Meeting, 30 August 2022 (via zoom)
 
 _Notes_
