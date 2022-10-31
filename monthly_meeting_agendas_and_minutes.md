@@ -1,5 +1,55 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 1 November 2022 (at Humlab)
+
+_Agenda_
+
+1. Review agenda; agree on plan for these sessions
+
+1. Courier: 
+   * curating issues
+   * status of "compiler" algorithm?
+   * Courier Metadata improvement
+     * decide which is the master file for Courier metadata
+     * create a workflow for updating, cleaning, correcting, and adding to this file
+     * decide if we want to add new columns to the metadata (e.g., author gender, nationality, UNESCO official or not, etc).
+   * Status of Courier articles
+     - Re: Courier TM for nature/culture issues (see [Ben's abstract](https://docs.google.com/document/d/1u2LwWv06BASS9Z4Jd4tNVSSqvCfkn8F8l07HBxg_UL4/edit), submitted to DHNB23)
+     - Re: Courier TM for "information" and "communication" (see [Fredrik's draft](https://docs.google.com/document/d/1F8JHupOE6DAbYkhk3bjyL7XX2YE7rkJt/edit))
+
+1. Proceedings:
+   * Roger and company have been working on a systematic identification of the textual patterns in Proceedings that mark when a new speaker begins speaking, or when a section of text is a translation of the text immediately above, and so on. Status?
+   * Ben and Fredrik present (preliminary) results of OCR quality control work on Proceedings. 
+   * Ben and Fredrik present other questions and/or desiderata re: Proceedings
+   * Establish next steps
+   
+1. SSI:
+   * status of article
+   * Issues/problems
+     - Ben shows his manually made concordance worksheet; how to make this into a claim?
+
+1. Future plans
+   * Our own conference or workshop?
+   * Ben and Fredrik will discuss ideas on this with Jani Marjanen in Uppsala, March 2023.
+
+1. Cooperation with Westac
+   * Opportunities?
+
+1. Wrapping up, moving forward
+   * timeframe for rest of project
+     - Ben will apply for förlangd dispositionstid in January. Otherwise, project concludes at end of 2023.
+   * discuss what a good project conclusion would look like
+   * Where/how to publish curated corpora?
+   * Relationship of this to UNESCO?
+
+***Special side session, Tuesday afternoon***
+1. Closing up Culture of International Society (Ben, Roger and Andreas)
+   * Where/how to publish curated corpora?
+     - Zenodo and/or GitHub?
+   * Where/how to archive (and make available) jupyter pages, other project-related data?
+   * How to keep jupyter pages alive for future use?
+
+
 ### Meeting, 28 September 2022 (via zoom)
 
 _Notes_
