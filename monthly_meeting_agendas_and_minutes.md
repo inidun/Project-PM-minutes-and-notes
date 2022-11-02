@@ -2,6 +2,41 @@
 
 ### Meeting, 1 November 2022 (at Humlab)
 
+_Notes_
+
+1. Courier: 
+   * Status of "compiler" algorithm is ready, has been tested; must be run and tested again once Oriane is done with tagging all Courier pages.
+   * Courier curating
+     - Oriane emailed questions regarding how to mark the "Greenwatch" supplemental sections of Courier in the 1990s, as well as how to deal with editorials that are catalogued as articles. The answer was that she should just mark small articles in the Greenwatch section (and other similar supplements or sub-sections) with “ignore”, as she had been doing in earlier cases. The logic is that the tagging she is doing primarily serves just to link the metadata file (about articles) to the text of those articles. So, the fact that these small text blocks are in the Greenwatch section is not actually a relevant question for that process. Similarly, any editorials that UNESCO decided to enter into their index as articles we need to tag in the text as articles, so that the compiling algorithm can find them and include them in relevant compiled corpora.
+   * Courier Metadata improvement
+     * we decided which is the master file for Courier metadata: it is on GitHub, INIDUN_data, Courier. (We are keeping an unedited copy of the version UNESCO sent us under "original") 
+     * Edits and additions to this file can be made by opening it, from GitHub, in VSC, and using the plug-in called Edit CSV. (That way we avoid problems associated with opening and editing it in Excel.)  
+     * We will likely want to add new columns to the metadata (e.g., author gender, nationality, UNESCO official or not, etc). Will discuss this together once Oriane is done.
+   * Next steps: 
+     * Once Oriane is done with Courier tagging: hold meeting where we go through all her (and Marita's) annotations.
+     * R and A will run the compiler and create a corpus of just article texts. 
+       - OBS: It might be a good idea to save compiled corpora in Zenodo, which allows for easy versioning of large files like this. (Ben and Andreas looked at the options for this on [zenodo's homepage.](https://about.zenodo.org/)
+     * Ben, Fredrik and maybe Oriane will devise and impliment some simple quality control tests on this corpus. 
+
+1. Proceedings:
+   * Roger and company showed their progress on a systematic identification of the textual patterns in Proceedings that mark when a new speaker begins speaking. We can apply this and test it, once F and B are done with OCR quality control check.  
+   * Next steps: 
+     - Roger and Andreas will see whether the basis for a more detailed metadata database on Proceedings can be derived automatically from machine reading of the corpus.
+     - Then (or otherwise), we will create such a database, to which we can add details (speaker names, nationalities, genders, etc) later, as time permits.   
+     - Andreas will see if the Lists of Participants in each Proceedings volumes can be used to create a "personindex". 
+     - Ben and Fredrik will complete results of OCR quality control work on Proceedings. 
+
+1. Wrapping up, moving forward
+   * timeframe for rest of project
+     - Ben will apply for förlangd dispositionstid in January. Otherwise, project concludes at end of 2023.
+   * Ben, Fredrik, Roger and Johan Jarlbrink discussed what a good project conclusion would look like:
+     - The minimum is that we publish all our corpora and relevant metadata indexes on GitHub (and/or zenodo), and publish examples of how we worked with the data, based on articles we publish, as code on GitHub and/or as "frozen" Jupyter notebooks.  
+   * Relationship of this to UNESCO:
+     - We confirmed that all UNESCO texts are under a special creative commmons license for Intergovernmental organizations (IGOs), according to which we can re-use and change and publish as long as we cite the source. So, we do not need to ask for permission to publish our corpora. But we will tell UNESCO that we doing this so that they can link to it, or perhaps so that we can discuss more ambitious options with them.       
+
+
+### Meeting, 1 November 2022 (at Humlab)
+
 _Agenda_
 
 1. Review agenda; agree on plan for these sessions
