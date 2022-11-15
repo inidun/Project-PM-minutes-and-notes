@@ -110,7 +110,7 @@ _Notes_
    
 3. Proceedings: OCR quality control
    * Ben and Fredrik will conduct systematic review of the quality of OCR in all our Proceedings documents. Results of this are recorded in [this spreadsheet](https://docs.google.com/spreadsheets/d/1fCYz5jZDkf_y36fv8bjaXdrTyR5WT9wlaFnV2i2pBQ4/edit?usp=sharing)
-   * Where possible, they will use the files listed in this [Index of Proceedings PDFs](https://demo.humlab.umu.se/inidun/proceedings/reocr/) (each of these has OCR text embedded in the PDF). 
+   * Where possible, they will use the files listed in this ~~[Index of Proceedings PDFs](https://demo.humlab.umu.se/inidun/proceedings/reocr/) (each of these has OCR text embedded in the PDF)~~ . :exclamation: __Note__: Updated link with all PDFs: [Proceedings PDFs](https://demo.humlab.umu.se/inidun/proceedings/pdfs/)
    * Where there is no file in that index, they will use the [2019 Scrape files](https://drive.google.com/drive/folders/1YoeRe21aCgFmThDwkJJ9Ni38iJGIpbRp) (now on google drive). To know what file number corresponds to which year, consult ["Proceedings Metadata Edited"](https://docs.google.com/spreadsheets/d/1z_QzDF2cYwaxP5ZdJ9t5h612g3nNRDZI/edit#gid=1893730714)
    * Ben and Fredrik will present results at next meeting (1 Nov)
    
