@@ -1,5 +1,26 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 29 November 2022 (on zoom)
+
+_Agenda_
+
+1. Courier:
+   * status updates
+   * Next steps?
+   * Go through ways to work with this in jupyter
+
+1. Proceedings:
+   * status updates
+   * Next steps
+   * Tasks for Oriane?
+   * Go through ways to work with this in jupyter
+
+1. Project planning and budget for 2023
+   * Fredrik's move to Malmö Univ., plans till 1 March 2023 
+   * Overall budget situation
+   * Humlab involvement in 2023: how much, 
+
+
 ### Meeting, 1 November 2022 (at Humlab)
 
 _Notes_
