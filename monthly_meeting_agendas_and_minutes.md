@@ -1,6 +1,34 @@
 ## Minutes from INIDUN monthly meetings
 
-### Meeting, 29 November 2022 (on zoom)
+### Meeting, 13 December 2022 (on zoom)
+
+_Agenda_
+
+1. Courier:
+   * status updates
+   * Oriane takes us through her comments and notes
+   * next steps?
+
+1. Proceedings:
+   * status updates
+
+1. Project planning and budget for 2023
+   * Ben presents tentative 2023 plan
+   * Meeting dates for 2023 
+
+### Meeting, 30 November 2022 (on zoom)
+
+_Notes_
+
+1. Courier:
+   * Oriane is almost done with her work on Courier.
+   * We decided that she should then begin doing the same kind of tagging work on the issues 1948-1952, which we had thusfar skipped.
+   * We will discuss her annotations (as written in the Progress file) on December 13.
+   * A next step is for F and B to run some quality-control tests of the Courier corpus, in January. 
+
+1. Project planning and budget for 2023
+   * Discussed general 2023 outline; B will collect information, report back on Dec 13.
+
 
 _Agenda_
 
