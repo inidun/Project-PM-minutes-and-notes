@@ -2,6 +2,41 @@
 
 ### Meeting, 13 December 2022 (on zoom)
 
+_Notes_
+
+1. Courier:
+   * Oriane has completed review of Courier pages through end of print run; has now begun looking at late 1940s issues. Will report in January on how long it is taking so we can decide whether it is worth the trouble.   
+   * Oriane showed an overview of the problems or discrepancies that appeared most often in Courier. For example:
+     * Circa 86 issues include at least one unindexed article (that is, a text with an author and title which, for whatever reason, is not listed in the index we received from the UNESCO archive).
+     * Circa 65 issues include at least one article where the page numbers listed in the index are incorrect (article in fact begins earlier, or ends later, in the issue).
+     * Circa 15 issues contain one or more pages in the PDF originals that were not OCRed. 
+     * In the case of circa 4 issues the page numbers are systematically incorrect (adding 2 to the correct page number, for example)  
+
+   * Next steps:
+     1. Oriane will now prepare a detailed overview document (on GitHub), listing (at least) the issues that include pages that need to be OCRed and added to the total collection of Courier pages.
+     1. Andreas will OCR and integrate these pages (and tell Oriane when done)
+     1. Oriane will then apply tags to those newly added pages (and tell us all when done)
+     1. Andreas will create a version of the Courier Index (on GitHub) to which we add our additions and corrections.
+     1. Andreas and Roger will work on correcting the incorrect page numbers in the index.
+     1. Ben and Fredrik will decide whether or not it is worthwhile to manually add to the index entries (author, title, year, page numbers) for the 86 or more unindexed articles that Oriane identified. 
+   
+   * How to work with the Courier corpus: Fredrik suggests that we think of it as two corpora:
+     * Courier (A) is the entire text of all issues.
+     * Courier (B) is the corpus composed of the texts of all articles listed in the index. 
+       * Courier (B1) includes the texts of all articles listed in the index, as well as all articles tagged as "unindexed articles". 
+       * (Later, perhaps, we can incorporate metadata on these articles into the index, making the "unindexed article" category disappear.) 
+
+1. Project planning and budget for 2023
+   * According to Ben's calculations, we can keep Humlab on the project at 10% for all of 2023. Ben will send detailed information on this to Roger and to Humlab's ekonom (and director). 
+
+1. Meeting dates for 2023
+   * Ben suggests the following meeting dates for (the first part of) Spring term 2023:
+   17/1, 13:15  	via zoom
+   31/1-1/2 	 	INIDUN days in Umeå (B comes up for all day Tuesday and half of Wednesday) 
+   15/2, 13:15  	Just B and F
+   28/2, 13:15  	zoom
+   
+
 _Agenda_
 
 1. Courier:
