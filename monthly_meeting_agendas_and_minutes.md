@@ -31,10 +31,16 @@ _Notes_
 
 1. Meeting dates for 2023
    * Ben suggests the following meeting dates for (the first part of) Spring term 2023:
-   17/1, 13:15  	via zoom
-   31/1-1/2 	 	INIDUN days in Umeå (B comes up for all day Tuesday and half of Wednesday) 
-   15/2, 13:15  	Just B and F
-   28/2, 13:15  	zoom
+     - 13/1, 13:15      just B and F
+     - 17/1, 13:15  	everyone, [via zoom](https://uu-se.zoom.us/j/6261245082)
+     - 31/1-1/2 	INIDUN days in Umeå (B comes up for all day Tuesday and half of Wednesday) 
+       - 31/1, 13:15    everyone, via zoom 
+     - 15/2, 13:15  	just B and F
+     - 28/2, 13:15  	everyone, via zoom
+     - 28/3, 13:15  	everyone, via zoom
+     - 25/4, 13:15  	everyone, via zoom
+     - 23/5, 13:15  	everyone, via zoom
+     - 13/6, 13:15  	everyone, via zoom
    
 
 _Agenda_
