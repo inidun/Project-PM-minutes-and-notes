@@ -1,5 +1,31 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 17 January 2023 (on zoom)
+
+_Agenda_
+
+1. Confirm VT23 meeting schedule
+   * (see suggested schedule in _Notes_ from 13 December meeting, below)
+
+1. Courier: Corpus curation
+   * Oriane updates on situation, her progress
+   * Where are we with regard to the "Next steps" (see _Notes_ from 13 December meeting, below)...?
+   * What should Oriane do next? 
+   * Decide on revised "Next steps" and relevant division of labor 
+
+1. Proceedings: 
+   * Status of OCR Quality control:
+     * Which volumes should be re-scanned, re-OCR:ed?
+   * Review Proceedings "next steps":
+     - Roger and Andreas will see whether the basis for a more detailed metadata database on Proceedings can be derived automatically from machine reading of the corpus.
+     - Then (or otherwise), we will create such a database, to which we can add details (speaker names, nationalities, genders, etc) later, as time permits.   
+     - Andreas will see if the Lists of Participants in each Proceedings volumes can be used to create a "personindex". 
+
+1. Courier: Research tools
+   * Look together at the new Courier co-occurrence models that Roger prepared just before Christmas
+   * Discuss VT23 research plan  
+
+
 ### Meeting, 13 December 2022 (on zoom)
 
 _Notes_
