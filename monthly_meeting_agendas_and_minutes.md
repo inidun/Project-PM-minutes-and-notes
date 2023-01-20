@@ -2,6 +2,54 @@
 
 ### Meeting, 17 January 2023 (on zoom)
 
+_Notes_
+
+_Agenda_
+
+1. We confirmed the following VT23 meeting schedule:
+     - 31/1-1/2 	INIDUN days in Umeå (B comes up Tuesday and all day Wednesday) 
+       - 31/1, 15:15    everyone, via zoom 
+       - 1/2, 9:00	Meeting: Ben, Fredrik, Roger and Andreas 
+     - 15/2, 13:15  	just B and F
+     - 28/2, 13:15  	everyone, via zoom
+     - 28/3, 13:15  	everyone, via zoom
+     - 25/4, 13:15  	everyone, via zoom
+     - 23/5, 13:15  	everyone, via zoom
+     - 13/6, 13:15  	everyone, via zoom
+
+1. Courier: Corpus curation
+   * Oriane updated us on her (impressive!) progress
+     - She completed tagging on the Courier articles from the 1940s and 50s
+     - Has compiled a list of metadata on articles that did not appear in the index we got from UNESCO (unindexed_articles)
+     - Has compiled a list of errrors/missing pages/poor OCR in the Courier pages. 
+      
+   * With regard to the "Next steps" (see _Notes_ from 13 December meeting, below), the status is as follows:
+     1. Oriane will now prepare a detailed overview document (on GitHub), listing (at least) the issues that include pages that need to be OCRed and added to the total collection of Courier pages. DONE
+     1. Andreas will OCR and integrate these pages (and tell Oriane when done). DONE 
+     1. Oriane will then apply tags to those newly added pages (and tell us all when done). TO DO
+     1. Also, regarding missing/faulty pages, Oriane will locate correct text in newly OCR'd files and insert that into the relevant Tagged Courier file. Will tell us when this is complete. TO DO
+        * At that point, Roger can run the compiler algorithm and release the Tagged Courier Corpus 1.0 (!).   
+     1. Andreas will create a version of the Courier Index (on GitHub) to which we add our additions and corrections. TO DO
+        * This will be a new index, based on the file "article_index.csv", to which we will add the new data on the unindexed articles.
+     1. Oriane will correct the incorrect page numbers in the index (by comparing with annotations in Tagged Courier progress file). TO DO  
+     1. Ben and Fredrik will decide whether or not it is worthwhile to manually add to the index entries (author, title, year, page numbers) for the 86 or more unindexed articles that Oriane identified. DONE, answer is "Yes!"
+
+1. Proceedings: 
+   * Status of OCR Quality control:
+     * Ben needs to finish his part of Proceedings OCR quality control.
+     * Regarding which volumes should be re-scanned, re-OCR'd
+       * Step one: for all Proceedings volumes for which the error rate is over 5%, Ben will order a new scan (with OCR, if possible) at KB.
+       * Step two: depending on cost and time constraints, Ben will order a new scan also for all Proceedings volumes for which the error rate is over 1%.  
+   * Proceedings "next steps":
+     - Roger and Andreas will see whether the basis for a more detailed metadata database on Proceedings can be derived automatically from machine reading of the corpus. IN PROGRESS
+     - Then (or otherwise), we will create such a database, to which we can add details (speaker names, nationalities, genders, etc) later, as time permits.   
+     - LATER: Andreas (or Oriane) will see if the Lists of Participants in each Proceedings volumes can be used to create a "personindex". 
+
+1. Courier: Research tools
+   * Look together at the new Courier co-occurrence models that Roger prepared just before Christmas
+     * There seems to have been some confusion about what exactly the goal was here. Ben and Fredrik will explore these models and let Roger and Andreas know if they want some other ones in addition.    
+
+
 _Agenda_
 
 1. Confirm VT23 meeting schedule
