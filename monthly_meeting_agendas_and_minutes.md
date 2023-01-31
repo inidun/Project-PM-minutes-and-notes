@@ -1,10 +1,25 @@
 ## Minutes from INIDUN monthly meetings
 
+
+### Meeting, 31 January - 1 February 2023 (Umeå), including 31/1, 15:15 on zoom.
+
+_Agenda_
+
+1. Courier: Corpus curation
+   * Oriane's status?
+   * Ready to compile Curated Courier 1.0? 	
+
+1. Proceedings: Corpus curation
+   * Status of quality control
+   * Oriane's roll?
+
+1. Courier: research tools
+   * Look again at co-occurrence calculations Roger prepared
+   * Using these for "Nature and Culture" paper ...? 
+
 ### Meeting, 17 January 2023 (on zoom)
 
 _Notes_
-
-_Agenda_
 
 1. We confirmed the following VT23 meeting schedule:
      - 31/1-1/2 	INIDUN days in Umeå (B comes up Tuesday and all day Wednesday) 
