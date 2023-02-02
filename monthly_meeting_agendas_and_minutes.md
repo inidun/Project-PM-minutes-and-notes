@@ -1,5 +1,38 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 31 January, 15:15 on zoom.
+
+_Notes_
+
+1. Courier: Corpus curation
+   * We discussed issue of adding in text from those few pages where the OCR quality is still very poor. Oriane could for example transcribe these directly into the text files. But that would mean that just a tiny part of the corpus would be hand-curated in a manner that is inconsistent. So, we will let these few pages go, at least for now, for the sake of being consistent in our application of OCR.
+   * Courier Quality Control: 
+     * Roger suggests that we conduct a quality control (QC) of Courier, in a manner similar to what we did with Proceedings ([see Proceedings QC file here](https://docs.google.com/spreadsheets/d/1fCYz5jZDkf_y36fv8bjaXdrTyR5WT9wlaFnV2i2pBQ4/edit?usp=share_link)). That is, a test that leads to an error percentage number as a measure of OCR quality. It is also a good idea to have a human review of Courier article corpus, to confirm that the article compilation procedures work correctly.   
+     * Oriane will conduct this Courier QC 
+     * The QC will be conducted by article (rather than by page)
+     * There are circa 7600 Courier articles: so 2% of the total is ca. 150 articles.
+     * The process thus includes the following steps:
+       1. Roger and Andreas compile Curated Courier 1.0 (and tell Oriane when it's ready!)
+       1. Oriane develops a way to select 150 articles, distributed over the time period.  
+       1. In each article, select a section of 100-200 words, and count the number of errors
+          * This is best done in Visual Studio Code, using a simple spellchecker to identify errors. 
+       1. Create a spreadsheet tabulating 
+          a. the sample article's info (year, etc) 
+	  a. the number of words in the text selection 
+	  a. the number of errors in the text selection
+	  a. the error percentage for that text selection  
+
+1. Proceedings: Corpus curation
+   * Proceedings quality control is complete. Ben will now order re-scanning of those issues with an error rate of 5% or higher. 
+
+1. Courier: research tools
+   * We looked again at co-occurrence calculations Roger prepared.
+   * Ben sent Roger email (1/2) with questions and requests.
+
+1. Courier: writing
+   * Ben and Fredrik started worked on article "Nature and Culture in Courier" for DHNB2023 conference.
+   * Ben has created a working text document in INIDUN drive. See [that file](https://docs.google.com/document/d/1KVRb59gAO9CV2xVQq4yQS_lGaYEs_5j4WrzuCHyIzBg/edit) for more on the paper and the division of research and writing tasks.  
+   
 
 ### Meeting, 31 January - 1 February 2023 (Umeå), including 31/1, 15:15 on zoom.
 
