@@ -13,11 +13,13 @@ _Notes_
      * There are circa 7600 Courier articles: so 2% of the total is ca. 150 articles.
      * The process thus includes the following steps:
        1. Roger and Andreas compile Curated Courier 1.0 (and tell Oriane when it's ready!)
-       1. Oriane develops a way to select 150 articles, distributed over the time period.  
-       1. In each article, select a section of 100-200 words, and count the number of errors
-          * This is best done in Visual Studio Code, using a simple spellchecker to identify errors. 
-       1. Create a spreadsheet tabulating 
-          a. the sample article's info (year, etc) 
+       1. Oriane develops a way to select 150 articles, distributed over the time period. 
+          * Question: go to 2011 only, or all the way through 2019? 
+       3. In each article, select a section of 100-200 words, and count the number of errors
+          * This is best done in Visual Studio Code, using a simple spellchecker to identify errors.
+          * Question: is one text selection per article enough?  
+       4. Create a spreadsheet tabulating 
+          a. the sample article's info (title, year, issue number, and maybe link to the relevant PDF?) 
 	  a. the number of words in the text selection 
 	  a. the number of errors in the text selection
 	  a. the error percentage for that text selection  
