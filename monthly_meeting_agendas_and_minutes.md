@@ -1,6 +1,6 @@
 ## Minutes from INIDUN monthly meetings
 
-### Meeting, 31 January, 15:15 on zoom.
+### Meeting, 31 January, 15:15 on zoom (plus 1 February work session at Humlab)
 
 _Notes_
 
