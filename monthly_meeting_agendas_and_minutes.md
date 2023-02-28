@@ -1,5 +1,27 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 28 February, 13:15 on zoom 
+
+_Notes_
+
+1. Courier: Corpus curation
+   * Oriane has finished putting in corrections to problems that Andreas found.
+   * Andreas found 100+ additional errors in testing the compiler algorithm, especially discrepancies between the article page numbers in the metadata index and in the markdown files. Oriane will now work on fixing those.
+   * Oriane has begun work on Courier OCR quality control; anticipates being done with that in 2 weeks or so. She will let us all know when that is done.
+   * At that point, R and A will prepare the Curated Courier 1.0. Roger will prepare a DTM of this so that it we can open it in jupyter, for word trends, etc. Also, R will create a 200-topic topic model that we can explore with the existing TM page.
+      
+1. Courier: writing
+   * Fredrik and Ben present their idea to write an article presenting Courier as historical source and machine-readable corpus. We may, in conjunction with this, want to ask Roger for other ways to interface with the corpus, based on the metadata index. One idea would be to add gender to the Courier article authors, so that one could divide up the corpus to two subcorpora, one by female authors and the other by male authors. We could have all 5 of us as co-authors on this. F and B will turn their attention to this after March 15; at that point we can also consider the best places to publish such an article.
+
+1. Proceedings: corpus curation
+   * B reported on difficulties in getting new scans of selected Proceedings volumes (because they are not, in fact, at KB, but are at Riksdagsbiblioteket). Ben will write up which issues and pages we need and email this to Fredrik, who will ask his contacts at Riksdagsbiblioteket if they could help us scan two issues.
+
+1. Business updates
+   * B reported that we were granted an extension of the project period (dispositionstid), so we now have until Dec 31, 2024 to use all project-related funds. Also, it seems that there is enough money in the amount already agreed upon between Uppsala and Humlab to allow Roger and Andreas to work on the project at 15% (rather than only 10%) for the rest of 2023, and perhaps into 2024. B will check in again about money matters by May or June.
+
+1. Priorities for the rest of the project time
+   * This will be the subject of our next meeting, 28 March, 13:15 (via zoom).
+
 ### Meeting, 31 January, 15:15 on zoom (plus 1 February work session at Humlab)
 
 _Notes_
