@@ -1,5 +1,31 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 28 March, 13:15 on zoom 
+
+_Agenda_
+
+1. Courier: Corpus curation
+   * Status?
+   * Plans for B and F to work with this?
+   * Create a topic model (or two) on article level?
+   
+1. Courier: writing
+   * B and F submitted article (to DHNB conference volume)
+   * Next steps re: general Courier corpus article?
+
+1. Proceedings: corpus curation
+   * Status?
+   * Update from Fredrik's contacts at Riksdagsbiblioteket?
+   * Tasks for Oriane?
+  
+1. Prioritization for remainder of 2023
+   * Collect possible priorities, sort them and decide!
+   * Possible categories: 
+     * corpus preparation and publication (where?)
+     * article publication
+     * writing final report for funder
+     * Ideas for follow-up projects, applications, etc? 
+
 ### Meeting, 28 February, 13:15 on zoom 
 
 _Notes_
