@@ -2,6 +2,37 @@
 
 ### Meeting, 28 March, 13:15 on zoom 
 
+_Notes_
+
+1. Courier: Corpus curation
+   * Status: 
+     - A corpus consisting (only) of articles from Courier is now ready. R and A have created a DTM of this that can be used in the Word Trends tool in jupyter. OBS: to use this, change the setting in the first cell so that corpus_config="courier_article",
+     - There is one article in the corpus that is left over from UNESCO's pre-Courier publication. Andreas will remove this. 
+     - Question: Do we have to create a new DTM to reflect that change?  
+     - To work with this corpus outside of jupyter, we can download it from the Github repository called "Courier_Article_Corpus".     
+   
+   * Create a topic model (or two) on article level:
+     - R and A will create a topic model (of this corpus, divided up into articles). 
+     - Questions (for B and F): should this be 100 topics, 200, or maybe do both? Should the TM be lemmatized or not?
+
+1. Courier: writing
+   * B and F submitted article (to DHNB conference volume)
+   * Next steps re: general Courier corpus article:
+     - F will ask Johan Jarlbrink about good places to publish an article like this
+     - B will create a Google drive document for the draft text of this article 
+     - The article will have three main parts:
+       1. Courier as historical source (B will write first draft)
+       2. Courier as curated corpus, including technical matters (F will write first draft)
+       3. Investigating the Courier corpus: examples of methods we have used, or could use (B and F will get this started) 
+
+1. Proceedings: corpus curation
+   * Status?
+   * Update from Fredrik's contacts at Riksdagsbiblioteket?
+   * Tasks for Oriane?
+  
+1. Prioritization for remainder of 2023
+
+
 _Agenda_
 
 1. Courier: Corpus curation
