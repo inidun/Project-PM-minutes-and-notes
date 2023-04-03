@@ -14,9 +14,14 @@ _Notes_
    * Create a topic model (or two) on article level:
      - R and A will create a topic model (of this corpus, divided up into articles). 
      - Questions (for B and F): should this be 100 topics, 200, or maybe do both? Should the TM be lemmatized or not?
+   
+   * Courier segmentation: Quality control
+     - After Oriane's successful work running a quality control on the OCR quality of our Courier corpus, we agreed that she should now create and run a similar QC process that measures how well the article segmentation has funtioned.
+     - O. will select (at random) two articles per year, and for each will simply check if they start and end where they are supposed to. 
+     - O. will begin by creating a form in which to enter this data (similar to the one used for OCR quality control) and share it with the rest of us. 
 
 1. Courier: writing
-   * B and F submitted article (to DHNB conference volume)
+   * B and F submitted an article (to DHNB conference volume)
    * Next steps re: general Courier corpus article:
      - F will ask Johan Jarlbrink about good places to publish an article like this
      - B will create a Google drive document for the draft text of this article 
@@ -24,13 +29,29 @@ _Notes_
        1. Courier as historical source (B will write first draft)
        2. Courier as curated corpus, including technical matters (F will write first draft)
        3. Investigating the Courier corpus: examples of methods we have used, or could use (B and F will get this started) 
+   * Time frame: aim to complete at least a first draft of this article before June 1 
 
 1. Proceedings: corpus curation
-   * Status?
-   * Update from Fredrik's contacts at Riksdagsbiblioteket?
-   * Tasks for Oriane?
-  
-1. Prioritization for remainder of 2023
+   * Improving OCR quality?
+     - Update from Fredrik's contacts at Riksdagsbiblioteket (Addition after meeting). RB cannot help us; they would have to cut up their copies to do the scanning, and they only have one copy of each year. B will check once more if some library has the books and could do a scan. Otherwise we will just proceed with the corpus as we have it.  
+     
+   * Curating Goals: 
+     - The most ambitious goal is a corpus consisting of speeches, each given by an particular speaker on a particular day. This would be linked to an index in which each speech is linked to a date, speaker, plenary meeting, "session" (one every two years, each one of which has a UNESCO-assigned "record number"), and so on. Later, we could add information to the speakers, like nationality, gender, and so on.    
+     - An intermediate goal is to create a corpus divided up by "plenary meetings" (of which there are many during each biannual "session" of UNESCO's General Conference). Each plenary meeting has a president, who is listed by that title only in the text. So it is important to identify that meeting president in order to be able to assign a speaker to each speech. 
+
+   * MEETING INDEX
+     - To achineve that intermediate goal, we need an index listing all the "meetings", with date, the "session" (year) they belong to, and the meeting president's name. 
+     - Oriane has begun work on [this index](https://docs.google.com/spreadsheets/d/1ERPQtWja0qSTLzfUiFvNE31Bv5XHA64oTngIKIajEIY/edit#gid=0).  
+
+   * Automated segmentation
+     - In parallel, R and A will continue work on automated forms of segmentation of speeches. 
+     - Once Oriane is done with the meeting index, we can use the page numbers to extraxt text from the current corpus with the "meeting" as the smallest unit. This is important for use in topic modeling, for example.     
+     
+   * Creating a rough corpus now
+     - In the meantime, R and A will work on creating a rough corpus, extracting the English and French text from the relevant pages of the "Verbatim proceedings". These are identified by the page numbers that are listed in [Proceedings_metadata_edited](https://docs.google.com/spreadsheets/d/1z_QzDF2cYwaxP5ZdJ9t5h612g3nNRDZI/edit#gid=1893730714), in column K. The number in parentheses are the PDF page numbers.
+      - We can then create topic model of this corpus. One of 100 topics, one of 200 topics, to begin with (OK?).
+      - QUESTION: should these topic models be lemmatized? In general, that's probably best. It is often interesting for me to see both "culture" and "cultures" (plural), but maybe that's not so important in a topic model...?
+         
 
 
 _Agenda_
