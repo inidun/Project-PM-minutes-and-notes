@@ -7,8 +7,10 @@ _Notes_
 1. Courier: Corpus curation
    * Status: 
      - A corpus consisting (only) of articles from Courier is now ready. R and A have created a DTM of this that can be used in the Word Trends tool in jupyter. OBS: to use this, change the setting in the first cell so that corpus_config="courier_article",
-     - There is one article in the corpus that is left over from UNESCO's pre-Courier publication. Andreas will remove this. 
-     - Question: Do we have to create a new DTM to reflect that change?  
+     - There is one article in the corpus that is left over from UNESCO's pre-Courier publication. Andreas will remove this.
+     	- [x] __Done__
+     - Question: Do we have to create a new DTM to reflect that change?
+     	- [x] __A new DTM has been created. Change setting to `corpus_config="courier_article_v0_2"` to use it.__
      - To work with this corpus outside of jupyter, we can download it from the Github repository called "Courier_Article_Corpus".     
    
    * Create a topic model (or two) on article level:
