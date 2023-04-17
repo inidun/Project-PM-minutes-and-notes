@@ -2,9 +2,9 @@
 
 ### Updated meeting schedule, Spring 2023
 
-26/4, (OBS Wednesday), 13:15 everyone, via zoom
-24/5, (OBS Wednesday), 13:15 everyone, via zoom
-13/6, 13:15 everyone, via zoom
+* 26/4, (OBS Wednesday), 13:15 everyone, via zoom
+* 24/5, (OBS Wednesday), 13:15 everyone, via zoom
+* 13/6, 13:15 everyone, via zoom
 
 ### Meeting, 28 March, 13:15 on zoom 
 
