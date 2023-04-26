@@ -2,9 +2,58 @@
 
 ### Updated meeting schedule, Spring 2023
 
-* 26/4, (OBS Wednesday), 13:15 everyone, via zoom
 * 24/5, (OBS Wednesday), 13:15 everyone, via zoom
 * 13/6, 13:15 everyone, via zoom
+
+
+### Meeting, 26 April, 13:15 on zoom 
+
+_Notes_
+
+1. Proceedings: Corpus curation
+
+   * MEETING INDEX
+     - Oriane has completed work on [a meeting index](https://docs.google.com/spreadsheets/d/1ERPQtWja0qSTLzfUiFvNE31Bv5XHA64oTngIKIajEIY/edit#gid=0). This list all the "meetings" of each "session" (that is, the year), and include the meeting president's name. 
+     - The names of the meeting presidents do not always appear in the same way in the Proceedings; some are missing first names, etc. Oriane has entered them as they appear in the source, and that's how we'll leave it for now. In the future it might be helpful to standardize these, but not just now.
+
+    * Creating a rough corpus now
+      - R and A are working on creating a rough corpus, extracting the English and French text from the relevant pages of the "Verbatim proceedings". 
+      - Also, now that Oriane is done with the meeting index, we can use the page numbers to extract text from the current corpus with the "meeting" as the smallest unit. This is important for use in topic modeling, for example.
+      - Question: so these are two corpora? One based on session (whole year) and one based on meetings? Or just one, with meeting as a smallest unit?
+     
+    * Automated segmentation
+      - R and A are working on automated forms of segmentation of speeches; also with help from Rebecca (Humlab).
+      - The plan is to use Prodigy (a program in the same suite as SpaCy) to conduct a machine learning approach to tag up the Proceedings, marking the line when new speeches begin, identifying the speaker name, speaker nationality, and so on.
+      - Next step will be for R and A to prepare a text sample (drawn from multiple different years of Proceedings?), that Oriane (and all of us) can tag manually. This will then serve as a training corpus.  
+          
+1. Courier: Corpus curation
+
+   * Courier segmentation QC
+     - Oriane showed us her work on creating a spreadsheet in which to enter data for a quality control of the Courier article segmentation and compiling processes. 
+     - We discussed how this should work. After the columns listing the name, year, and number of the randomly selected articles (two per year), the following columns should be as follows (or something similar):
+       - Complete? (That is, does the entire article text appear?) yes/no
+       - Excess/incorrect text? (That is, does any additional text appear, that is not from the article?) yes/no
+       - Text out of order? yes/no
+       - Comments (a space for textual comments on anything else of note)
+
+1. Writing: Courier Corpus article
+   
+   * B and F presented the idea of writing an article together in which we present our Curated Courier corpus.
+   * Intended journal is [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com) (JOHD). 
+   * We have started [a working document in the INIDUN google drive](https://docs.google.com/document/d/1Qcx4s8rsMGWkBJ8SnbK0fwf2qG65V1fKt3dTNjThBjY/edit). 
+   * Goal and timeframe: we aim to have a draft of the complete article by end of June/early July (before summer vacation). Then in late August or September we will upload the Courier files to a digital repository and submit the article to the journal. 
+   * TASKS for writing the draft
+     - Andreas: write short text explaining our OCR process; and a short text explaining the compiler algorithm that allowed us to create the article corpus. 
+     - Oriane: write short texts re:
+       a. the tagging work you did (for article segmentation)
+       b. the OCR quality control 
+       c. the segmentation and compilation quality control (that you're doing now)
+     - Fredrik: continue work on section 2, re: Courier as curated corpus (general features of the content, and creating sections in which Andreas and Oriane can enter their texts)
+     - Ben: continue work on section 1, re: Courier as source for humanities research (not just history!)   
+     - Ben and Fredrik: editing and coordinating all the parts 
+     - Ben: contact UNESCO archive to inform them of our plan, ask for permission to publish the Courier article metadata, and see if they have an opinion about where (which repository) the corpus and metadata should be uploaded to. 
+
+
 
 ### Meeting, 28 March, 13:15 on zoom 
 
@@ -48,7 +97,7 @@ _Notes_
      - An intermediate goal is to create a corpus divided up by "plenary meetings" (of which there are many during each biannual "session" of UNESCO's General Conference). Each plenary meeting has a president, who is listed by that title only in the text. So it is important to identify that meeting president in order to be able to assign a speaker to each speech. 
 
    * MEETING INDEX
-     - To achineve that intermediate goal, we need an index listing all the "meetings", with date, the "session" (year) they belong to, and the meeting president's name. 
+     - To achieve that intermediate goal, we need an index listing all the "meetings", with date, the "session" (year) they belong to, and the meeting president's name. 
      - Oriane has begun work on [this index](https://docs.google.com/spreadsheets/d/1ERPQtWja0qSTLzfUiFvNE31Bv5XHA64oTngIKIajEIY/edit#gid=0).  
 
    * Automated segmentation
