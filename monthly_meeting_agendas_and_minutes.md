@@ -3,8 +3,49 @@
 ### Updated meeting schedule, Spring 2023
 
 * 24/5, (OBS Wednesday), 13:15 everyone, via zoom
-* 13/6, 13:15 everyone, via zoom
+* 20/6, 13:15 everyone, via zoom
 
+### Meeting, 24 May, 13:15 on zoom 
+
+1. Courier: Corpus curation
+   * Oriane has completed the [Courier segmentation QC.](https://docs.google.com/spreadsheets/d/1Z40M5FqTLceO8tttw6L87P6fEMvUmQSfeJ4xczDDUto/edit#gid=0)
+   * Results: 
+     - The articles texts are complete with an error rate of 8%
+     - Only 5.8% of the sample of articles contain extraneous text (usually just a page number)
+     - About 15% of the sampled articles contain some text that is out of order. This is generally at the level of paragraph (i.e., whole paragraphs are in the wrong order, but are correct internally). 15 out of 20 cases are from the year 2000 or later. (This means that if we are using the 1947 to 2002 corpus there are only two such articles.)     
+   * Now that the Courier curating and QC is done: 
+     - R and A will create topic models based on the article-corpus : 50, 100, and 200. Non-lemmatize. Exclude numerals, words that appear less than 5 times in the whole corpus, and delimiters (punctuation, etc)
+     - Use the article-corpus which is [already up](https://github.com/inidun/courier_article_corpus)
+     - See the article-corpus in the ["release" form](https://github.com/inidun/courier_article_corpus/releases/tag/0.2)
+
+1. Writing: Courier Corpus data article (for _Journal of Open Humanities Data_)
+   * We have [a working document in the INIDUN google drive](https://docs.google.com/document/d/1Qcx4s8rsMGWkBJ8SnbK0fwf2qG65V1fKt3dTNjThBjY/edit). 
+   * Andreas and Roger will look at this, add their sections.
+   * All of us should be prepared to discuss the article text in detail at our next meeting on 20/6.
+   * Before then, look into the step-by-step plan:
+     - When do we upload the datat sets? (Before submitting the article ms? Check journal guidelines.)
+     - To which repository? Zenodo, Swedish one?
+     - Which datasets, exactly?
+       - the Courier article-corpus
+       - the whole (bag of words) Courier corpus? Yes (it's already on GitHub).
+       - the Courier articles metadata file (assuming UNESCO archive gives permission)
+       - Code/scripts used to create Jupyter pages with tools to explore the data
+       - The two QC spreadsheets (Courier OCR QC, and Courier segmentation QC). Copy these into GitHub. 
+     - Confirm the precise CC license that UNESCO publishes Courier under, so that we can cite it correctly.  
+     - Confirm with UNESCO archive that we can publish the Courier metadata file. 
+
+1. Other Writing:
+   * For the article on "Information" and "Communication" in Courier, maybe publish the topic models; at least refer to the GitHub page where the corpus is, from which we made the topic models.
+       
+1. _Proceedings_: Corpus curation
+   * Now that Oriane is done with [the meeting index](https://docs.google.com/spreadsheets/d/1ERPQtWja0qSTLzfUiFvNE31Bv5XHA64oTngIKIajEIY/edit#gid=0), we can use the page numbers to extract text from the current corpus with the "meeting" as the smallest unit. 
+   * OBS: make sure to get only the actual verbatim meetings, not the others. The three relevant titles (in column H) are: 
+     - Verbatim records of plenary meetings
+     - PLENARY MEETINGS
+     - Proceedings
+     - PLENARY MEETINGS OF THE GENERAL CONFERENCE
+   * Andreas has created a rough corpus from the relevant pages of the "Verbatim proceedings". Needs now to extract the English and French text (and remove the other languages). At this stage we will keep both English and French text on the same pages, in the same files.
+   * For the rest of this term, the work with Proceedings is second priority compared to the work with Courier! In the autumn Ben, Roger and Andreas will make some decisions about how best to finalize a Proceedings corpus, what to make public, whether or not to seek additional funding, etc.  
 
 ### Meeting, 26 April, 13:15 on zoom 
 
