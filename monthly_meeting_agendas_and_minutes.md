@@ -1,9 +1,59 @@
 ## Minutes from INIDUN monthly meetings
 
-### Updated meeting schedule, Spring 2023
+### Meeting, 20 June, 13:15 on zoom
 
-* 24/5, (OBS Wednesday), 13:15 everyone, via zoom
-* 20/6, 13:15 everyone, via zoom
+_NOTES_
+
+1. Courier updates
+   * Roger has created several new topic models based on the Courier article corpus. These are available in the drop-down menu in the INIDUN jupyter topic modeling page.
+
+1. The Curated Courier: corpora and article     
+   * We discussed the article text, but mostly focused on the issue of what exactly we will make available, and how. Here are my notes on what we concluded:
+   * We will produce three (sets of) items:
+     1. Corpora made available to the public through zenodo.
+     2. A repository on GitHub
+     3. An article, to submit to Journal of Open Humanities Data  
+
+__Item set 1:__ corpora to publish on Zenodo
+  * Primary output: a digital text corpus called “Curated Courier 1.0”
+    - This consists of the texts of all (indexed) articles published in The UNESCO Courier 1948-2020, (extracted from the complete text and compiled).
+  * Secondary output: Complete curated issue corpus.
+    - This consists of the complete text found in all Courier issues 1948-2020, extracted from the PDFs and rendered as simple text, by issue.
+    - Goal: a researcher should be able to download this and open it in, for example, Voyant.
+    - OBS: Roger and Andreas will recreate this from the original files that Oriane annotated.
+  * In the intro texts on zenodo, we will link to the complete repository on GitHub, where all process-related files will live.
+
+__Item set 2:__ things to include in our GitHub repository
+  * (QUESTION) Will the two corpora mentioned above live here, as well? I guess they have to, in order to be functional within our jupyter pages, right? 
+  * Additional items (not published on Zenodo):
+    - Complete curated and annotated issue corpus (all pages, complete text, but annotated with labels showing when indexed articles begin, etc.): by issue. 
+    - OBS: We must remove links to the Courier page PDFs that are currently hosted on our server.
+    - Goal: this serves mostly as evidence of the process; published for transparency/traceability.
+    - Additional files:
+      - The Courier metadata file (which the compiling algorithm uses as its “document index”)
+	- OBS: Must confirm with UNESCO archive that this is OK to publish.
+      - Quality control file (re: OCR)
+      - Quality control file (re: accuracy of segmentation/compiling) 
+      - Curation process instructions 
+      - “Read me” file(s)
+        
+__Item 3:__ our article, to submit to Journal of Open Humanities Data
+
+
+1. ORDER of EVENTS:
+   * Roger and Andreas prepare final versions of:
+     - The Curated Courier 1.0 (article corpus)
+     - The complete curated issue corpus (“A” above)
+
+   * Andreas creates zipfiles in GitHub, sends links to Ben
+   * Ben writes drafts of introductory texts (for zenodo pages), shares with all for comments.
+   * Ben uploads these to zenodo.
+   * In the meantime: Roger and Andreas “clean up” in the relevant GitHub pages.
+   * Finalize our article text (including references to zenodo pages and GitHub repository)
+     - Fredrik and Roger will discuss parts of article text on Thursday, 29/6
+     - Fredrik and Ben will discuss article text on Monday, 26/6
+    * Submit to journal
+
 
 ### Meeting, 24 May, 13:15 on zoom 
 
