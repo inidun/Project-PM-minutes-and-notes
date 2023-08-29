@@ -1,5 +1,52 @@
 ## Minutes from INIDUN monthly meetings
 
+### Meeting, 29 August, 13:15 on zoom
+
+_NOTES_
+
+- Ben, Roger, and Andreas present
+  
+1. Courier
+   * R and A showed Ben the status (and location) of all the files related to our Curated Courier datasets.
+   * B reported that UNESCO has given us permission to publish the original article metadata file (email from Eng Sengsavang, 28 August 2023).
+   * R and A explained that the metadata file is already included in the article corpus (in the zip-file, as "document_index.csv").
+   * We will post the corpora to Zenodo, but also have them up on GitHub.
+   * The relevant material on GitHub is in three places:
+     - Curated_Courier is the repository with the "products", including the final corpora and supplementary materials.
+     - Tagged_Courier is the repository in which the work took place; this may also be of interest for those eager to really see how we did things.
+     - Finally, [Courier-lab](https://github.com/inidun/courier-lab/tree/main/content/notebooks) is the repository where we have created code and materials for an online interface with the Courier corpora, in the form of a "Jupyter Lite" webpage.
+   
+   * B will have a meeting (today, 16:00) with UNESCO archivist Eng S. and with Ian Denison, "Chief, UNESCO Publishing and Branding". 
+
+1. Coming tasks
+   * Barring any surprises, B will proceed with the uploads to Zenodo.
+   * B will complete intro texts for the Zenodo uploads, adding a reference to UNESCO's open access publishing license, with link.
+   * B will add a short version of the same presentation text to the Read Me files of the following three GitHub repositories:
+     i. Curated_Courier 
+     i. Tagged_Courier
+     i. Courier-lab
+   * B will add a short introductory text to the beginning of the JupyterLite page.
+     - Do this by making edits and saving them in the online form. Then, download the notebook, then send it to R and A (alternately I could push it up to the server, but maybe easier and safer to do it this way!).
+   * This short text that will appear in all the above mentioned places should include:
+     - A line about Courier as source
+     - A reference to Courier's open access CC publishing license (with link)
+     - A reference to VR project support  
+
+Next meeting: 12 September, 13:15 (zoom).
+
+### MEETING SCHEDULE for FALL 2023
+
+Tuesdays, 13:15-15:00 (at the latest), on zoom.
+
+29/8
+12/9
+26/9 
+10/10 
+7/11 
+21/11
+5/12 
+
+
 ### Meeting, 20 June, 13:15 on zoom
 
 _NOTES_
