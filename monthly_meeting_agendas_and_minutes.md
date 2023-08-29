@@ -38,13 +38,13 @@ Next meeting: 12 September, 13:15 (zoom).
 
 Tuesdays, 13:15-15:00 (at the latest), on zoom.
 
-29/8
-12/9
-26/9 
-10/10 
-7/11 
-21/11
-5/12 
+   * 29/8
+   * 12/9
+   * 26/9
+   * 10/10
+   * 7/11
+   * 21/11
+   * 5/12 
 
 
 ### Meeting, 20 June, 13:15 on zoom
